@@ -1,0 +1,1001 @@
+employee_index,user_id,user_role,department,experience_level,task_type,AI_tool_used,hours_worked_per_week,time_saved_per_week,satisfaction_score,performance_improvement_pct,usage_frequency,country,remote_status
+1,U0001,Marketing Specialist,Marketing,Junior,Email Drafting,Copilot,42.9,6.7,3,15.4,Daily,USA,Remote
+2,U0002,Developer,Tech,Mid,Code Review,Copilot,39.7,11.0,5,24.4,Daily,USA,Hybrid
+3,U0003,Financial Analyst,Finance,Senior,Email Drafting,Copilot,41.0,13.2,7,28.7,Daily,Japan,Office
+4,U0004,Developer,Tech,Junior,Coding Help,Notion AI,39.3,9.1,4,18.0,Weekly,USA,Remote
+5,U0005,Financial Analyst,Finance,Mid,Forecasting,Gemini,40.5,8.6,6,18.8,Weekly,Japan,Office
+6,U0006,Developer,Tech,Mid,Documentation,Copilot,35.2,9.0,4,22.3,Daily,USA,Remote
+7,U0007,HR Specialist,HR,Senior,Report Writing,Copilot,39.3,10.2,6,21.0,Daily,Japan,Hybrid
+8,U0008,Manager,Management,Junior,Report Writing,ChatGPT,45.0,9.2,5,24.8,Weekly,UK,Hybrid
+9,U0009,Data Analyst,Tech,Mid,Report Writing,ChatGPT,43.9,13.8,7,35.2,Daily,USA,Office
+10,U0010,Developer,Tech,Senior,Bug Fixing,Copilot,42.4,14.2,7,32.2,Daily,India,Hybrid
+11,U0011,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,38.0,3.0,2,3.1,Daily,UK,Hybrid
+12,U0012,Designer,Marketing,Mid,Ideation,Copilot,49.5,8.2,4,22.1,Daily,India,Hybrid
+13,U0013,Data Analyst,Tech,Mid,Report Writing,Gemini,53.3,5.6,4,15.5,Weekly,USA,Remote
+14,U0014,Manager,Management,Junior,Strategy,Other,35.6,7.3,3,21.4,Daily,Canada,Hybrid
+15,U0015,Financial Analyst,Finance,Junior,Report Writing,ChatGPT,47.2,8.1,4,24.4,Weekly,Australia,Office
+16,U0016,Data Analyst,Tech,Junior,Data Analysis,ChatGPT,39.2,11.2,6,27.7,Weekly,USA,Remote
+17,U0017,Marketing Specialist,Marketing,Mid,Market Research,Gemini,46.4,6.4,4,17.4,Daily,USA,Remote
+18,U0018,Developer,Tech,Mid,Coding Help,Copilot,43.1,11.4,6,29.3,Weekly,USA,Remote
+19,U0019,Marketing Specialist,Marketing,Senior,Ideation,Gemini,40.9,10.5,6,29.5,Weekly,USA,Hybrid
+20,U0020,Marketing Specialist,Marketing,Junior,Market Research,ChatGPT,39.3,8.0,4,21.5,Daily,USA,Hybrid
+21,U0021,Developer,Tech,Mid,Bug Fixing,ChatGPT,52.1,6.7,3,15.8,Daily,USA,Remote
+22,U0022,Developer,Tech,Mid,Coding Help,ChatGPT,40.3,6.3,3,17.9,Weekly,Japan,Hybrid
+23,U0023,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,42.9,7.9,4,22.2,Daily,India,Office
+24,U0024,Developer,Tech,Mid,Code Review,ChatGPT,51.2,12.7,6,27.4,Weekly,Japan,Office
+25,U0025,Data Analyst,Tech,Senior,Report Writing,Gemini,42.6,8.1,5,19.8,Daily,USA,Hybrid
+26,U0026,Financial Analyst,Finance,Mid,Report Writing,Gemini,41.1,9.5,5,22.7,Daily,USA,Office
+27,U0027,Developer,Tech,Mid,Bug Fixing,Copilot,46.5,10.4,6,23.5,Daily,USA,Hybrid
+28,U0028,Marketing Specialist,Marketing,Mid,Ideation,Gemini,42.2,6.1,4,16.5,Daily,Japan,Remote
+29,U0029,Manager,Management,Junior,Scheduling,ChatGPT,37.8,11.7,6,34.1,Daily,India,Office
+30,U0030,Marketing Specialist,Marketing,Mid,Email Drafting,Notion AI,40.0,5.2,3,11.4,Daily,Germany,Hybrid
+31,U0031,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,39.1,11.1,8,22.7,Daily,Canada,Hybrid
+32,U0032,Developer,Tech,Mid,Coding Help,Gemini,40.7,9.9,6,23.0,Daily,USA,Remote
+33,U0033,Developer,Tech,Mid,Code Review,Copilot,44.5,5.3,3,13.0,Weekly,UK,Hybrid
+34,U0034,Data Analyst,Tech,Junior,Visualization,Other,47.1,5.9,2,17.8,Daily,Germany,Office
+35,U0035,Financial Analyst,Finance,Mid,Forecasting,Gemini,43.1,6.7,4,12.1,Daily,USA,Office
+36,U0036,Financial Analyst,Finance,Mid,Forecasting,Notion AI,43.7,9.8,4,23.7,Weekly,Japan,Hybrid
+37,U0037,HR Specialist,HR,Mid,Policy Q&A,Gemini,41.1,7.4,4,23.4,Daily,UK,Office
+38,U0038,Developer,Tech,Mid,Coding Help,Copilot,36.3,6.5,3,13.6,Occasional,USA,Remote
+39,U0039,Data Analyst,Tech,Mid,Query Generation,Gemini,40.2,10.2,7,24.1,Weekly,Germany,Hybrid
+40,U0040,Developer,Tech,Mid,Coding Help,Gemini,39.8,5.1,3,11.7,Weekly,Japan,Office
+41,U0041,Developer,Tech,Junior,Bug Fixing,Gemini,41.0,6.6,4,19.4,Weekly,India,Remote
+42,U0042,Developer,Tech,Senior,Bug Fixing,Copilot,46.3,11.8,5,29.2,Daily,Japan,Remote
+43,U0043,Developer,Tech,Mid,Code Review,Copilot,44.5,9.2,5,23.0,Weekly,USA,Remote
+44,U0044,HR Specialist,HR,Junior,Policy Q&A,Gemini,46.8,12.2,7,30.9,Daily,India,Hybrid
+45,U0045,Marketing Specialist,Marketing,Mid,Market Research,Gemini,37.4,5.8,6,10.5,Weekly,USA,Hybrid
+46,U0046,Financial Analyst,Finance,Mid,Forecasting,ChatGPT,32.7,9.2,5,23.4,Daily,Japan,Remote
+47,U0047,Data Analyst,Tech,Mid,Visualization,Copilot,40.5,6.8,3,17.6,Daily,India,Office
+48,U0048,Financial Analyst,Finance,Mid,Data Analysis,Gemini,41.9,9.5,5,24.5,Occasional,Japan,Office
+49,U0049,Data Analyst,Tech,Senior,Query Generation,Notion AI,46.3,12.5,7,29.6,Daily,Germany,Hybrid
+50,U0050,Data Analyst,Tech,Junior,Data Analysis,Gemini,36.8,5.8,4,12.6,Weekly,Germany,Hybrid
+51,U0051,Developer,Tech,Junior,Code Review,Copilot,39.6,11.1,6,28.3,Weekly,USA,Hybrid
+52,U0052,Manager,Management,Mid,Report Writing,ChatGPT,43.7,8.7,5,22.2,Daily,Germany,Hybrid
+53,U0053,Marketing Specialist,Marketing,Mid,Ideation,Notion AI,35.1,8.0,4,14.4,Weekly,Australia,Hybrid
+54,U0054,Financial Analyst,Finance,Mid,Data Analysis,Copilot,38.8,4.8,2,16.3,Daily,Australia,Hybrid
+55,U0055,Developer,Tech,Junior,Coding Help,ChatGPT,45.4,5.7,3,14.6,Weekly,Germany,Office
+56,U0056,Developer,Tech,Mid,Code Review,Copilot,40.8,8.8,4,20.5,Daily,USA,Hybrid
+57,U0057,HR Specialist,HR,Junior,Job Description Writing,ChatGPT,41.1,8.2,4,18.5,Daily,Japan,Hybrid
+58,U0058,Manager,Management,Senior,Scheduling,Gemini,36.2,8.1,4,21.7,Daily,USA,Hybrid
+59,U0059,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,37.9,10.0,5,19.0,Weekly,Germany,Hybrid
+60,U0060,Developer,Tech,Mid,Documentation,Copilot,43.1,8.9,4,21.9,Daily,USA,Remote
+61,U0061,Manager,Management,Senior,Strategy,Notion AI,41.0,7.8,4,18.2,Weekly,USA,Hybrid
+62,U0062,HR Specialist,HR,Senior,Email Drafting,Gemini,35.6,14.4,9,42.6,Daily,India,Office
+63,U0063,Developer,Tech,Mid,Coding Help,Copilot,44.9,7.3,4,15.5,Daily,UK,Remote
+64,U0064,Financial Analyst,Finance,Senior,Email Drafting,Gemini,48.1,8.0,4,19.7,Occasional,India,Office
+65,U0065,Manager,Management,Junior,Strategy,Gemini,36.5,2.9,3,1.8,Occasional,USA,Hybrid
+66,U0066,Designer,Marketing,Mid,Image Generation,ChatGPT,49.2,9.9,5,25.9,Weekly,Germany,Hybrid
+67,U0067,Developer,Tech,Junior,Documentation,Gemini,44.0,7.1,4,16.5,Weekly,Japan,Hybrid
+68,U0068,HR Specialist,HR,Mid,Report Writing,Notion AI,41.2,4.2,2,16.4,Occasional,Japan,Hybrid
+69,U0069,Developer,Tech,Mid,Documentation,Gemini,44.6,7.8,5,22.6,Daily,Germany,Remote
+70,U0070,Financial Analyst,Finance,Mid,Data Analysis,Gemini,38.6,8.1,5,17.5,Daily,USA,Office
+71,U0071,Financial Analyst,Finance,Mid,Report Writing,Gemini,44.3,8.6,7,22.5,Weekly,USA,Office
+72,U0072,HR Specialist,HR,Mid,Report Writing,Gemini,39.8,9.1,6,23.6,Daily,USA,Office
+73,U0073,Designer,Marketing,Mid,Copywriting,Notion AI,39.3,8.8,7,24.2,Daily,Japan,Remote
+74,U0074,Marketing Specialist,Marketing,Junior,Market Research,Other,43.9,8.0,2,21.3,Weekly,UK,Hybrid
+75,U0075,Developer,Tech,Mid,Code Review,Copilot,33.8,9.3,5,27.5,Daily,USA,Remote
+76,U0076,Marketing Specialist,Marketing,Mid,Market Research,Gemini,40.0,8.1,5,26.2,Daily,Japan,Remote
+77,U0077,Data Analyst,Tech,Junior,Query Generation,Copilot,43.9,8.0,4,19.1,Daily,Australia,Hybrid
+78,U0078,Designer,Marketing,Mid,Image Generation,Notion AI,39.0,7.1,7,21.2,Daily,India,Hybrid
+79,U0079,Data Analyst,Tech,Mid,Data Analysis,Gemini,44.3,8.2,5,23.0,Daily,USA,Hybrid
+80,U0080,Marketing Specialist,Marketing,Mid,Ideation,Other,34.6,10.6,4,21.8,Daily,Germany,Hybrid
+81,U0081,Data Analyst,Tech,Mid,Query Generation,Gemini,51.6,9.3,6,20.3,Daily,Japan,Remote
+82,U0082,Marketing Specialist,Marketing,Senior,Market Research,ChatGPT,38.1,9.1,4,21.1,Daily,India,Remote
+83,U0083,Developer,Tech,Senior,Bug Fixing,Copilot,46.7,15.2,7,38.3,Daily,USA,Remote
+84,U0084,Developer,Tech,Junior,Code Review,Copilot,40.2,10.3,6,20.3,Weekly,India,Remote
+85,U0085,Developer,Tech,Junior,Coding Help,Copilot,43.1,14.4,7,30.8,Daily,USA,Remote
+86,U0086,Developer,Tech,Junior,Coding Help,Gemini,50.8,7.4,4,18.4,Daily,USA,Hybrid
+87,U0087,Developer,Tech,Junior,Documentation,Other,44.1,0.5,1,2.1,Daily,USA,Office
+88,U0088,Manager,Management,Mid,Report Writing,Notion AI,45.3,4.8,3,9.6,Occasional,UK,Hybrid
+89,U0089,Designer,Marketing,Mid,Image Generation,Gemini,39.1,8.3,5,18.8,Daily,USA,Office
+90,U0090,Designer,Marketing,Junior,Ideation,Other,46.7,4.7,1,8.3,Weekly,USA,Hybrid
+91,U0091,Developer,Tech,Mid,Bug Fixing,Copilot,39.2,6.9,4,18.3,Weekly,India,Office
+92,U0092,Manager,Management,Senior,Email Drafting,Gemini,36.9,8.0,5,21.9,Daily,Japan,Hybrid
+93,U0093,Developer,Tech,Junior,Coding Help,Copilot,40.7,8.1,5,24.0,Weekly,USA,Hybrid
+94,U0094,Manager,Management,Mid,Scheduling,ChatGPT,43.7,6.0,3,13.3,Weekly,India,Hybrid
+95,U0095,Data Analyst,Tech,Junior,Report Writing,Notion AI,47.8,5.9,3,12.3,Weekly,India,Office
+96,U0096,Developer,Tech,Mid,Coding Help,Copilot,42.3,11.9,6,24.8,Daily,Japan,Hybrid
+97,U0097,HR Specialist,HR,Junior,Email Drafting,Notion AI,44.9,5.3,3,13.8,Daily,Canada,Office
+98,U0098,Marketing Specialist,Marketing,Junior,Copywriting,Notion AI,44.7,11.6,6,30.2,Daily,Canada,Remote
+99,U0099,Designer,Marketing,Junior,Ideation,Gemini,43.9,9.8,6,24.6,Daily,India,Remote
+100,U0100,Data Analyst,Tech,Senior,Visualization,Notion AI,45.1,8.0,5,22.9,Occasional,Germany,Remote
+101,U0101,Designer,Marketing,Mid,Asset Creation,Copilot,45.7,10.6,6,26.2,Daily,USA,Hybrid
+102,U0102,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,48.6,10.3,5,30.7,Daily,Canada,Hybrid
+103,U0103,HR Specialist,HR,Mid,Report Writing,ChatGPT,43.0,8.4,5,24.8,Weekly,USA,Hybrid
+104,U0104,HR Specialist,HR,Mid,Report Writing,Gemini,44.8,10.9,6,26.0,Daily,USA,Office
+105,U0105,Data Analyst,Tech,Junior,Data Analysis,Gemini,44.6,5.4,3,14.6,Daily,Australia,Hybrid
+106,U0106,Developer,Tech,Senior,Documentation,Gemini,48.7,10.6,6,29.5,Daily,UK,Remote
+107,U0107,Data Analyst,Tech,Mid,Query Generation,Gemini,44.4,6.0,5,13.4,Occasional,Germany,Hybrid
+108,U0108,Manager,Management,Senior,Scheduling,ChatGPT,40.5,6.1,2,16.2,Occasional,Australia,Office
+109,U0109,Financial Analyst,Finance,Mid,Email Drafting,Gemini,43.8,6.0,5,14.7,Weekly,USA,Office
+110,U0110,Financial Analyst,Finance,Mid,Report Writing,Gemini,43.3,10.2,6,31.4,Daily,USA,Office
+111,U0111,Developer,Tech,Mid,Coding Help,Copilot,50.7,10.1,5,23.7,Daily,USA,Remote
+112,U0112,Developer,Tech,Mid,Documentation,Other,33.5,9.1,4,18.5,Daily,Japan,Remote
+113,U0113,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,45.0,8.0,4,21.6,Weekly,USA,Hybrid
+114,U0114,HR Specialist,HR,Junior,Email Drafting,Gemini,41.2,9.4,6,22.5,Daily,Japan,Hybrid
+115,U0115,Data Analyst,Tech,Mid,Visualization,Gemini,37.8,5.4,4,13.3,Weekly,Japan,Hybrid
+116,U0116,HR Specialist,HR,Senior,Job Description Writing,Notion AI,43.8,5.9,2,12.3,Daily,Canada,Office
+117,U0117,Marketing Specialist,Marketing,Senior,Email Drafting,Notion AI,34.7,9.7,5,22.0,Daily,Japan,Hybrid
+118,U0118,Manager,Management,Mid,Email Drafting,ChatGPT,48.2,10.5,5,26.0,Weekly,Australia,Remote
+119,U0119,Developer,Tech,Mid,Documentation,ChatGPT,44.1,8.5,4,12.1,Daily,India,Hybrid
+120,U0120,Developer,Tech,Mid,Documentation,Copilot,40.2,7.6,4,21.7,Daily,India,Remote
+121,U0121,Designer,Marketing,Mid,Copywriting,Notion AI,45.6,12.4,8,34.0,Daily,USA,Remote
+122,U0122,HR Specialist,HR,Junior,Report Writing,Gemini,39.1,11.1,6,28.6,Daily,India,Office
+123,U0123,Manager,Management,Mid,Email Drafting,Copilot,44.2,12.9,6,33.0,Daily,USA,Remote
+124,U0124,Manager,Management,Mid,Report Writing,ChatGPT,43.8,8.3,4,23.8,Daily,USA,Remote
+125,U0125,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,47.6,7.7,4,29.0,Daily,USA,Remote
+126,U0126,Designer,Marketing,Junior,Ideation,Other,45.3,7.1,2,17.5,Weekly,India,Hybrid
+127,U0127,Developer,Tech,Senior,Code Review,Copilot,48.9,9.5,5,24.0,Daily,Germany,Hybrid
+128,U0128,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,44.1,2.0,1,9.4,Weekly,Canada,Remote
+129,U0129,Data Analyst,Tech,Mid,Data Analysis,Notion AI,39.2,4.0,2,7.7,Daily,USA,Remote
+130,U0130,Data Analyst,Tech,Senior,Query Generation,ChatGPT,39.5,9.5,6,20.8,Weekly,Germany,Remote
+131,U0131,Developer,Tech,Junior,Code Review,Gemini,49.8,7.0,5,14.2,Weekly,Japan,Hybrid
+132,U0132,Developer,Tech,Mid,Documentation,ChatGPT,32.5,3.8,3,8.6,Weekly,USA,Office
+133,U0133,HR Specialist,HR,Mid,Report Writing,ChatGPT,39.0,12.3,6,33.6,Daily,UK,Office
+134,U0134,Manager,Management,Junior,Scheduling,Other,39.5,5.7,2,13.4,Daily,USA,Hybrid
+135,U0135,Marketing Specialist,Marketing,Junior,Market Research,Gemini,35.5,5.0,4,10.5,Weekly,USA,Office
+136,U0136,Developer,Tech,Junior,Code Review,ChatGPT,40.2,6.7,3,12.1,Daily,USA,Remote
+137,U0137,Financial Analyst,Finance,Mid,Forecasting,Gemini,37.3,5.6,4,15.4,Daily,USA,Office
+138,U0138,Manager,Management,Senior,Report Writing,ChatGPT,32.6,9.6,5,27.8,Daily,USA,Remote
+139,U0139,Marketing Specialist,Marketing,Junior,Market Research,Notion AI,38.6,9.3,6,15.8,Daily,UK,Remote
+140,U0140,HR Specialist,HR,Senior,Job Description Writing,Notion AI,47.1,10.4,5,27.8,Daily,USA,Office
+141,U0141,Developer,Tech,Mid,Code Review,Gemini,39.1,10.6,7,26.0,Daily,USA,Hybrid
+142,U0142,Designer,Marketing,Mid,Ideation,Gemini,40.5,11.0,5,26.3,Daily,Germany,Hybrid
+143,U0143,HR Specialist,HR,Senior,Email Drafting,Notion AI,41.0,4.9,4,14.3,Occasional,USA,Remote
+144,U0144,Designer,Marketing,Senior,Asset Creation,Gemini,42.5,8.9,6,23.4,Weekly,USA,Hybrid
+145,U0145,Developer,Tech,Mid,Code Review,ChatGPT,41.0,11.9,6,27.6,Daily,Germany,Remote
+146,U0146,Data Analyst,Tech,Junior,Query Generation,Gemini,32.8,5.1,3,8.7,Weekly,Germany,Remote
+147,U0147,Designer,Marketing,Mid,Image Generation,Notion AI,43.5,5.8,4,18.5,Daily,Germany,Remote
+148,U0148,Developer,Tech,Mid,Code Review,Copilot,44.0,14.3,8,35.2,Daily,Japan,Remote
+149,U0149,HR Specialist,HR,Mid,Report Writing,ChatGPT,41.8,6.8,4,18.1,Daily,India,Hybrid
+150,U0150,Data Analyst,Tech,Senior,Visualization,Gemini,45.4,6.4,4,14.1,Weekly,USA,Hybrid
+151,U0151,Financial Analyst,Finance,Mid,Email Drafting,Other,41.5,5.6,3,13.5,Daily,Japan,Office
+152,U0152,Manager,Management,Senior,Strategy,Notion AI,36.4,7.7,4,21.0,Daily,India,Hybrid
+153,U0153,Manager,Management,Mid,Strategy,ChatGPT,47.6,9.9,5,19.0,Daily,India,Remote
+154,U0154,Developer,Tech,Mid,Code Review,Notion AI,30.0,5.6,3,10.7,Daily,USA,Hybrid
+155,U0155,Financial Analyst,Finance,Junior,Email Drafting,Other,43.8,5.0,2,8.0,Occasional,UK,Office
+156,U0156,Developer,Tech,Junior,Bug Fixing,Copilot,49.1,6.7,3,16.3,Weekly,Germany,Office
+157,U0157,Developer,Tech,Senior,Documentation,Gemini,44.2,6.1,4,19.5,Weekly,USA,Remote
+158,U0158,Designer,Marketing,Senior,Image Generation,ChatGPT,40.3,6.6,3,17.2,Occasional,Germany,Hybrid
+159,U0159,Financial Analyst,Finance,Junior,Forecasting,Gemini,43.7,5.9,4,16.0,Daily,Germany,Office
+160,U0160,Developer,Tech,Junior,Documentation,ChatGPT,52.1,6.4,3,15.9,Daily,USA,Hybrid
+161,U0161,Developer,Tech,Mid,Code Review,Copilot,41.0,8.7,4,22.1,Weekly,USA,Remote
+162,U0162,Developer,Tech,Junior,Coding Help,Gemini,43.2,8.8,5,22.6,Daily,India,Remote
+163,U0163,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,35.9,9.0,5,20.1,Daily,USA,Hybrid
+164,U0164,Marketing Specialist,Marketing,Junior,Email Drafting,Notion AI,34.6,8.0,5,19.1,Occasional,India,Office
+165,U0165,Data Analyst,Tech,Mid,Visualization,Gemini,39.6,4.2,3,12.0,Daily,India,Office
+166,U0166,Financial Analyst,Finance,Mid,Report Writing,Notion AI,41.8,6.2,4,16.5,Daily,UK,Office
+167,U0167,Data Analyst,Tech,Junior,Report Writing,Copilot,41.3,3.7,2,11.0,Weekly,India,Remote
+168,U0168,Manager,Management,Mid,Scheduling,Gemini,42.6,10.9,7,29.1,Daily,Australia,Remote
+169,U0169,Developer,Tech,Mid,Coding Help,Copilot,35.4,6.3,3,12.0,Occasional,USA,Remote
+170,U0170,Manager,Management,Junior,Scheduling,Notion AI,42.3,7.4,2,18.3,Daily,Australia,Office
+171,U0171,Designer,Marketing,Mid,Asset Creation,Notion AI,42.2,9.3,6,22.0,Weekly,UK,Remote
+172,U0172,Developer,Tech,Mid,Bug Fixing,Copilot,38.7,10.7,6,28.4,Weekly,India,Remote
+173,U0173,Designer,Marketing,Mid,Asset Creation,Gemini,39.9,7.2,5,14.7,Occasional,Australia,Remote
+174,U0174,Data Analyst,Tech,Mid,Report Writing,ChatGPT,38.5,10.4,5,22.8,Daily,Canada,Remote
+175,U0175,Developer,Tech,Mid,Coding Help,Copilot,43.8,7.6,5,21.4,Daily,USA,Remote
+176,U0176,Marketing Specialist,Marketing,Senior,Copywriting,ChatGPT,50.8,11.4,5,26.7,Weekly,Japan,Remote
+177,U0177,Data Analyst,Tech,Mid,Data Analysis,Notion AI,34.3,9.9,5,25.9,Daily,Germany,Hybrid
+178,U0178,Developer,Tech,Senior,Coding Help,Other,30.5,10.8,5,29.9,Daily,USA,Hybrid
+179,U0179,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,42.0,5.5,3,14.2,Daily,India,Remote
+180,U0180,Marketing Specialist,Marketing,Senior,Market Research,Notion AI,39.4,7.8,4,18.5,Daily,India,Hybrid
+181,U0181,Financial Analyst,Finance,Mid,Forecasting,Gemini,47.0,11.4,7,30.3,Daily,Australia,Office
+182,U0182,Financial Analyst,Finance,Mid,Data Analysis,Other,43.4,12.6,6,27.4,Daily,USA,Office
+183,U0183,Financial Analyst,Finance,Senior,Email Drafting,Gemini,43.5,4.2,3,5.3,Weekly,India,Office
+184,U0184,Developer,Tech,Junior,Documentation,Gemini,43.9,5.6,3,15.7,Daily,USA,Hybrid
+185,U0185,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,40.3,7.4,5,19.8,Occasional,USA,Office
+186,U0186,Designer,Marketing,Mid,Ideation,Gemini,39.0,6.0,3,14.4,Daily,India,Hybrid
+187,U0187,Designer,Marketing,Senior,Asset Creation,ChatGPT,39.6,5.8,3,15.0,Daily,Germany,Remote
+188,U0188,Developer,Tech,Mid,Bug Fixing,Copilot,45.5,13.8,8,35.3,Weekly,UK,Office
+189,U0189,Developer,Tech,Junior,Bug Fixing,ChatGPT,36.2,7.6,4,24.5,Weekly,USA,Hybrid
+190,U0190,Designer,Marketing,Mid,Copywriting,Notion AI,44.1,8.0,5,21.9,Daily,Germany,Remote
+191,U0191,Financial Analyst,Finance,Junior,Email Drafting,Gemini,44.0,5.4,3,10.1,Weekly,Germany,Hybrid
+192,U0192,Marketing Specialist,Marketing,Mid,Email Drafting,Notion AI,51.4,9.6,5,23.7,Daily,Germany,Remote
+193,U0193,HR Specialist,HR,Mid,Policy Q&A,Other,42.7,7.3,1,18.4,Daily,UK,Office
+194,U0194,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,44.0,6.0,4,16.9,Weekly,India,Remote
+195,U0195,Data Analyst,Tech,Senior,Data Analysis,ChatGPT,37.3,6.4,2,10.8,Daily,USA,Office
+196,U0196,Developer,Tech,Senior,Coding Help,Copilot,39.5,10.2,5,30.1,Occasional,USA,Remote
+197,U0197,Developer,Tech,Senior,Documentation,ChatGPT,34.9,11.9,5,30.7,Daily,India,Remote
+198,U0198,Designer,Marketing,Senior,Ideation,Notion AI,35.7,9.0,5,25.9,Daily,USA,Hybrid
+199,U0199,Designer,Marketing,Mid,Asset Creation,Gemini,35.7,7.6,5,15.7,Daily,India,Hybrid
+200,U0200,Developer,Tech,Senior,Coding Help,Gemini,38.7,13.5,9,28.8,Weekly,Australia,Hybrid
+201,U0201,Developer,Tech,Mid,Documentation,Gemini,41.2,10.6,6,24.1,Daily,USA,Hybrid
+202,U0202,Manager,Management,Mid,Strategy,ChatGPT,41.7,8.9,4,25.0,Daily,USA,Hybrid
+203,U0203,Developer,Tech,Mid,Coding Help,Gemini,50.6,8.5,6,19.0,Daily,USA,Hybrid
+204,U0204,Manager,Management,Mid,Strategy,ChatGPT,39.0,7.9,4,18.9,Weekly,USA,Remote
+205,U0205,Developer,Tech,Senior,Coding Help,Copilot,39.6,14.9,8,34.3,Daily,India,Hybrid
+206,U0206,Financial Analyst,Finance,Mid,Data Analysis,Gemini,40.4,7.1,4,14.3,Daily,Japan,Hybrid
+207,U0207,Designer,Marketing,Junior,Copywriting,Notion AI,45.4,0.5,1,3.0,Weekly,USA,Remote
+208,U0208,Designer,Marketing,Mid,Asset Creation,Gemini,39.7,10.8,6,29.8,Daily,USA,Remote
+209,U0209,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,38.8,4.6,2,7.0,Weekly,India,Hybrid
+210,U0210,HR Specialist,HR,Mid,Email Drafting,Gemini,40.1,2.0,2,3.6,Daily,Canada,Office
+211,U0211,Developer,Tech,Junior,Code Review,Copilot,50.5,9.9,4,21.4,Daily,Canada,Hybrid
+212,U0212,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,41.6,12.8,6,31.1,Daily,USA,Remote
+213,U0213,Financial Analyst,Finance,Mid,Report Writing,Gemini,40.0,10.6,7,32.0,Weekly,Germany,Office
+214,U0214,Marketing Specialist,Marketing,Junior,Copywriting,Other,52.9,6.7,3,17.5,Weekly,USA,Hybrid
+215,U0215,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,41.6,5.8,3,10.4,Daily,India,Office
+216,U0216,Developer,Tech,Senior,Coding Help,Copilot,31.7,9.0,5,23.2,Occasional,India,Hybrid
+217,U0217,Manager,Management,Junior,Email Drafting,Gemini,34.5,11.9,9,26.8,Daily,India,Remote
+218,U0218,HR Specialist,HR,Senior,Policy Q&A,Other,47.7,8.0,3,14.1,Weekly,USA,Hybrid
+219,U0219,Designer,Marketing,Mid,Ideation,Gemini,51.5,7.2,5,20.4,Weekly,USA,Remote
+220,U0220,Developer,Tech,Mid,Documentation,Gemini,40.3,2.9,3,10.9,Weekly,USA,Office
+221,U0221,Data Analyst,Tech,Mid,Report Writing,ChatGPT,36.4,6.9,4,12.3,Weekly,India,Hybrid
+222,U0222,Marketing Specialist,Marketing,Junior,Market Research,Notion AI,45.9,9.0,4,24.5,Weekly,USA,Remote
+223,U0223,Developer,Tech,Mid,Documentation,ChatGPT,45.4,9.1,4,27.7,Daily,USA,Remote
+224,U0224,HR Specialist,HR,Mid,Policy Q&A,Copilot,45.0,8.9,6,21.9,Daily,USA,Office
+225,U0225,Marketing Specialist,Marketing,Junior,Copywriting,ChatGPT,51.5,9.2,5,26.8,Daily,UK,Hybrid
+226,U0226,Manager,Management,Junior,Scheduling,Notion AI,46.3,6.0,5,16.8,Occasional,UK,Office
+227,U0227,Developer,Tech,Senior,Code Review,Copilot,45.1,8.0,4,19.9,Occasional,India,Hybrid
+228,U0228,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,46.6,9.3,4,22.2,Daily,India,Hybrid
+229,U0229,Marketing Specialist,Marketing,Junior,Market Research,ChatGPT,44.1,12.3,5,30.0,Daily,Germany,Remote
+230,U0230,Financial Analyst,Finance,Junior,Email Drafting,Gemini,45.4,6.2,3,17.8,Daily,UK,Office
+231,U0231,HR Specialist,HR,Mid,Email Drafting,Other,43.6,9.9,2,27.4,Daily,USA,Office
+232,U0232,Designer,Marketing,Mid,Asset Creation,Gemini,43.9,4.1,3,11.4,Occasional,USA,Hybrid
+233,U0233,Developer,Tech,Mid,Bug Fixing,ChatGPT,46.6,6.8,3,14.7,Daily,India,Remote
+234,U0234,Developer,Tech,Senior,Code Review,Copilot,38.4,8.5,5,16.2,Occasional,India,Remote
+235,U0235,Designer,Marketing,Senior,Image Generation,Notion AI,40.2,11.4,6,32.3,Daily,India,Office
+236,U0236,Developer,Tech,Mid,Documentation,Copilot,49.2,8.1,4,23.4,Occasional,USA,Hybrid
+237,U0237,Developer,Tech,Junior,Coding Help,Other,39.6,7.3,3,16.8,Daily,USA,Hybrid
+238,U0238,Developer,Tech,Junior,Bug Fixing,Copilot,37.7,9.1,4,24.2,Weekly,India,Hybrid
+239,U0239,Designer,Marketing,Mid,Copywriting,Other,36.2,11.0,5,26.9,Daily,USA,Remote
+240,U0240,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,42.2,9.1,5,25.7,Daily,Japan,Hybrid
+241,U0241,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,44.6,5.2,4,15.7,Occasional,USA,Remote
+242,U0242,Marketing Specialist,Marketing,Junior,Email Drafting,Notion AI,51.1,8.8,4,17.5,Daily,Australia,Remote
+243,U0243,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,39.3,2.2,1,5.6,Weekly,India,Office
+244,U0244,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,41.8,8.3,4,19.1,Daily,UK,Hybrid
+245,U0245,Designer,Marketing,Junior,Copywriting,Gemini,37.6,8.2,5,25.2,Daily,Germany,Remote
+246,U0246,HR Specialist,HR,Senior,Job Description Writing,ChatGPT,38.3,6.8,3,16.6,Weekly,Germany,Office
+247,U0247,Designer,Marketing,Senior,Asset Creation,Gemini,39.6,5.4,4,10.2,Weekly,USA,Remote
+248,U0248,Manager,Management,Mid,Strategy,ChatGPT,38.6,9.1,4,16.9,Daily,India,Office
+249,U0249,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,48.5,4.2,2,15.4,Weekly,USA,Hybrid
+250,U0250,Designer,Marketing,Mid,Copywriting,Gemini,42.3,4.0,3,11.4,Weekly,USA,Remote
+251,U0251,Developer,Tech,Mid,Documentation,ChatGPT,42.2,10.0,5,18.9,Occasional,USA,Remote
+252,U0252,HR Specialist,HR,Senior,Job Description Writing,ChatGPT,46.7,9.8,5,27.6,Weekly,UK,Office
+253,U0253,Designer,Marketing,Mid,Ideation,Notion AI,30.0,4.3,4,11.0,Weekly,USA,Hybrid
+254,U0254,Marketing Specialist,Marketing,Mid,Email Drafting,Copilot,39.8,7.5,4,17.1,Daily,Japan,Hybrid
+255,U0255,Financial Analyst,Finance,Senior,Email Drafting,Copilot,43.9,6.9,4,14.9,Daily,India,Office
+256,U0256,Financial Analyst,Finance,Junior,Report Writing,Gemini,40.1,6.5,4,15.6,Daily,Australia,Hybrid
+257,U0257,Developer,Tech,Junior,Code Review,Notion AI,45.1,5.0,4,9.8,Daily,India,Remote
+258,U0258,Data Analyst,Tech,Mid,Visualization,ChatGPT,37.9,6.3,3,12.6,Occasional,USA,Hybrid
+259,U0259,Designer,Marketing,Mid,Asset Creation,Copilot,38.8,5.9,3,18.7,Occasional,India,Hybrid
+260,U0260,Data Analyst,Tech,Senior,Query Generation,Gemini,38.1,9.7,6,25.9,Weekly,India,Hybrid
+261,U0261,Financial Analyst,Finance,Mid,Forecasting,ChatGPT,41.7,8.5,4,20.6,Weekly,UK,Office
+262,U0262,HR Specialist,HR,Junior,Report Writing,ChatGPT,43.2,7.4,4,17.2,Daily,Japan,Office
+263,U0263,Manager,Management,Mid,Report Writing,Copilot,38.3,7.6,4,25.7,Daily,Australia,Office
+264,U0264,Developer,Tech,Junior,Coding Help,Copilot,43.0,11.8,7,36.5,Weekly,USA,Remote
+265,U0265,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,36.5,10.0,5,18.7,Daily,USA,Hybrid
+266,U0266,HR Specialist,HR,Junior,Email Drafting,Copilot,45.4,8.1,3,19.8,Daily,Japan,Hybrid
+267,U0267,Developer,Tech,Junior,Code Review,ChatGPT,40.0,7.0,3,11.8,Daily,USA,Hybrid
+268,U0268,Data Analyst,Tech,Mid,Report Writing,Copilot,41.9,10.0,5,21.8,Daily,USA,Remote
+269,U0269,Developer,Tech,Mid,Coding Help,ChatGPT,41.3,8.1,3,21.2,Weekly,India,Hybrid
+270,U0270,Developer,Tech,Mid,Documentation,ChatGPT,42.9,9.0,5,23.5,Daily,Canada,Remote
+271,U0271,Manager,Management,Junior,Scheduling,Other,47.1,8.7,4,22.3,Daily,UK,Hybrid
+272,U0272,Designer,Marketing,Junior,Image Generation,Gemini,36.4,10.7,6,33.3,Occasional,Japan,Remote
+273,U0273,Financial Analyst,Finance,Mid,Report Writing,Notion AI,47.9,4.3,2,9.6,Weekly,USA,Office
+274,U0274,Developer,Tech,Mid,Coding Help,Copilot,46.8,9.9,5,22.5,Daily,USA,Hybrid
+275,U0275,Developer,Tech,Mid,Coding Help,Copilot,43.6,11.1,6,29.3,Daily,Canada,Remote
+276,U0276,Marketing Specialist,Marketing,Junior,Market Research,Gemini,39.8,10.4,6,25.5,Daily,USA,Hybrid
+277,U0277,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,48.2,15.8,8,40.0,Daily,India,Remote
+278,U0278,Data Analyst,Tech,Mid,Visualization,Notion AI,30.0,11.6,8,29.4,Daily,USA,Remote
+279,U0279,HR Specialist,HR,Senior,Policy Q&A,ChatGPT,43.5,12.8,6,33.1,Weekly,USA,Office
+280,U0280,Manager,Management,Mid,Strategy,Other,43.3,10.2,3,30.5,Weekly,UK,Remote
+281,U0281,Developer,Tech,Senior,Coding Help,Copilot,51.0,8.9,5,27.7,Weekly,Germany,Hybrid
+282,U0282,Manager,Management,Junior,Email Drafting,ChatGPT,42.8,7.7,3,14.5,Daily,Germany,Remote
+283,U0283,Marketing Specialist,Marketing,Senior,Copywriting,ChatGPT,38.8,11.5,6,31.4,Weekly,Germany,Remote
+284,U0284,Data Analyst,Tech,Mid,Visualization,Gemini,51.2,4.7,3,11.0,Weekly,USA,Remote
+285,U0285,Marketing Specialist,Marketing,Junior,Copywriting,ChatGPT,47.7,6.2,3,17.4,Weekly,India,Remote
+286,U0286,Data Analyst,Tech,Mid,Data Analysis,Gemini,37.9,4.1,3,7.4,Daily,India,Remote
+287,U0287,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,41.3,7.4,4,20.1,Weekly,USA,Hybrid
+288,U0288,Developer,Tech,Mid,Bug Fixing,ChatGPT,42.1,7.8,5,15.7,Daily,Japan,Remote
+289,U0289,Developer,Tech,Mid,Documentation,ChatGPT,38.1,9.8,5,26.5,Daily,USA,Hybrid
+290,U0290,Financial Analyst,Finance,Mid,Report Writing,Gemini,41.2,14.9,9,33.8,Daily,Germany,Office
+291,U0291,Data Analyst,Tech,Mid,Visualization,ChatGPT,46.6,4.8,1,19.9,Weekly,Canada,Hybrid
+292,U0292,Designer,Marketing,Mid,Copywriting,Gemini,37.0,9.1,6,27.1,Weekly,Germany,Hybrid
+293,U0293,Manager,Management,Junior,Report Writing,Copilot,42.1,4.0,2,7.8,Daily,USA,Office
+294,U0294,Developer,Tech,Mid,Code Review,Copilot,43.1,8.8,5,17.7,Occasional,Japan,Hybrid
+295,U0295,HR Specialist,HR,Mid,Email Drafting,Copilot,42.2,12.6,6,31.6,Daily,USA,Remote
+296,U0296,Developer,Tech,Senior,Code Review,Copilot,39.0,9.9,4,28.2,Daily,India,Remote
+297,U0297,Designer,Marketing,Mid,Copywriting,Gemini,44.3,10.2,7,23.0,Daily,USA,Remote
+298,U0298,Developer,Tech,Junior,Bug Fixing,Copilot,40.9,11.0,5,23.9,Weekly,USA,Remote
+299,U0299,HR Specialist,HR,Senior,Report Writing,Gemini,39.6,8.7,6,29.9,Weekly,Germany,Remote
+300,U0300,Designer,Marketing,Mid,Asset Creation,Copilot,37.3,9.9,5,24.0,Occasional,India,Remote
+301,U0301,HR Specialist,HR,Mid,Report Writing,ChatGPT,46.8,6.1,3,12.4,Daily,India,Hybrid
+302,U0302,Marketing Specialist,Marketing,Mid,Email Drafting,Other,34.1,7.4,2,15.8,Weekly,USA,Hybrid
+303,U0303,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,40.0,9.0,4,21.5,Daily,USA,Office
+304,U0304,Financial Analyst,Finance,Mid,Data Analysis,Gemini,49.2,8.0,4,22.6,Daily,USA,Office
+305,U0305,Data Analyst,Tech,Mid,Visualization,Gemini,43.8,10.5,7,28.7,Occasional,UK,Remote
+306,U0306,Marketing Specialist,Marketing,Mid,Market Research,Notion AI,42.3,8.8,6,19.8,Weekly,India,Hybrid
+307,U0307,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,41.6,12.7,6,31.7,Daily,USA,Office
+308,U0308,Manager,Management,Mid,Email Drafting,Notion AI,48.5,7.7,4,21.5,Daily,USA,Remote
+309,U0309,Marketing Specialist,Marketing,Senior,Copywriting,Gemini,48.0,9.1,6,18.2,Daily,USA,Hybrid
+310,U0310,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,41.8,11.2,5,22.7,Weekly,India,Remote
+311,U0311,Data Analyst,Tech,Junior,Report Writing,Gemini,42.3,7.4,6,24.9,Daily,USA,Remote
+312,U0312,Developer,Tech,Mid,Coding Help,Copilot,40.1,13.7,7,31.8,Weekly,Germany,Remote
+313,U0313,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,39.6,6.4,3,14.2,Daily,Canada,Office
+314,U0314,Developer,Tech,Mid,Coding Help,Gemini,45.0,11.1,5,23.1,Daily,India,Hybrid
+315,U0315,Financial Analyst,Finance,Mid,Forecasting,Gemini,45.1,8.7,6,26.6,Daily,Germany,Hybrid
+316,U0316,Financial Analyst,Finance,Senior,Email Drafting,Other,38.9,10.3,4,27.1,Daily,USA,Remote
+317,U0317,HR Specialist,HR,Mid,Report Writing,ChatGPT,39.7,7.8,5,23.0,Daily,USA,Office
+318,U0318,Designer,Marketing,Junior,Ideation,Gemini,40.8,7.6,4,19.3,Weekly,Japan,Remote
+319,U0319,Data Analyst,Tech,Junior,Query Generation,ChatGPT,31.3,5.6,3,17.5,Daily,UK,Office
+320,U0320,Developer,Tech,Mid,Bug Fixing,Gemini,42.8,9.4,5,26.9,Daily,USA,Hybrid
+321,U0321,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,37.7,10.9,6,23.1,Daily,Japan,Hybrid
+322,U0322,Data Analyst,Tech,Mid,Query Generation,Copilot,49.1,9.9,4,27.1,Daily,USA,Hybrid
+323,U0323,Data Analyst,Tech,Mid,Visualization,ChatGPT,42.5,12.0,6,23.8,Daily,USA,Hybrid
+324,U0324,Marketing Specialist,Marketing,Senior,Copywriting,ChatGPT,41.9,6.3,3,13.0,Weekly,USA,Remote
+325,U0325,Marketing Specialist,Marketing,Mid,Ideation,Notion AI,33.6,11.3,7,29.6,Daily,USA,Office
+326,U0326,Financial Analyst,Finance,Junior,Email Drafting,Gemini,46.1,8.1,5,23.5,Daily,USA,Hybrid
+327,U0327,Designer,Marketing,Senior,Asset Creation,Gemini,47.3,6.7,5,15.5,Weekly,UK,Office
+328,U0328,Manager,Management,Senior,Scheduling,Notion AI,45.7,9.8,5,29.2,Daily,India,Office
+329,U0329,Developer,Tech,Mid,Bug Fixing,ChatGPT,35.1,5.1,4,12.6,Weekly,UK,Hybrid
+330,U0330,Manager,Management,Mid,Report Writing,Gemini,36.8,8.2,5,19.8,Weekly,UK,Hybrid
+331,U0331,Developer,Tech,Junior,Bug Fixing,Copilot,43.3,6.9,4,18.7,Weekly,USA,Remote
+332,U0332,Designer,Marketing,Mid,Image Generation,Notion AI,35.0,10.0,6,26.6,Daily,UK,Remote
+333,U0333,HR Specialist,HR,Mid,Email Drafting,Other,37.7,8.3,3,19.1,Weekly,USA,Office
+334,U0334,Developer,Tech,Mid,Coding Help,Notion AI,34.2,5.4,3,10.6,Weekly,USA,Remote
+335,U0335,Developer,Tech,Mid,Bug Fixing,Copilot,55.9,11.7,6,26.5,Weekly,USA,Remote
+336,U0336,Developer,Tech,Senior,Documentation,Gemini,46.4,6.3,6,14.0,Weekly,USA,Remote
+337,U0337,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,36.6,8.3,5,14.8,Weekly,India,Hybrid
+338,U0338,Developer,Tech,Mid,Code Review,Copilot,40.8,5.9,3,14.6,Daily,Japan,Remote
+339,U0339,Developer,Tech,Mid,Bug Fixing,Copilot,38.4,15.2,8,46.2,Daily,USA,Remote
+340,U0340,Developer,Tech,Junior,Documentation,ChatGPT,43.3,9.6,5,17.3,Daily,India,Hybrid
+341,U0341,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,44.6,10.1,5,22.7,Daily,USA,Hybrid
+342,U0342,Data Analyst,Tech,Mid,Query Generation,ChatGPT,47.1,9.1,4,24.8,Weekly,India,Remote
+343,U0343,Designer,Marketing,Junior,Asset Creation,ChatGPT,42.1,8.7,5,26.8,Daily,Germany,Remote
+344,U0344,Developer,Tech,Senior,Bug Fixing,Copilot,40.3,16.9,8,41.4,Daily,UK,Remote
+345,U0345,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,40.0,9.1,5,20.2,Daily,India,Hybrid
+346,U0346,Developer,Tech,Senior,Bug Fixing,Gemini,42.4,10.0,7,26.6,Weekly,USA,Hybrid
+347,U0347,Data Analyst,Tech,Junior,Data Analysis,Gemini,45.5,7.4,5,14.3,Daily,USA,Remote
+348,U0348,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,33.2,8.6,5,26.4,Daily,Japan,Remote
+349,U0349,Data Analyst,Tech,Junior,Visualization,Copilot,47.0,10.4,6,21.6,Daily,USA,Hybrid
+350,U0350,HR Specialist,HR,Junior,Report Writing,Gemini,39.7,7.7,5,18.8,Daily,USA,Office
+351,U0351,Developer,Tech,Junior,Coding Help,Notion AI,44.4,7.0,4,15.0,Daily,UK,Hybrid
+352,U0352,Designer,Marketing,Senior,Copywriting,Gemini,45.3,15.6,9,41.0,Daily,USA,Remote
+353,U0353,Financial Analyst,Finance,Mid,Forecasting,Gemini,40.3,6.9,4,20.5,Daily,Canada,Remote
+354,U0354,Developer,Tech,Mid,Documentation,ChatGPT,42.6,8.9,5,23.3,Daily,USA,Hybrid
+355,U0355,Financial Analyst,Finance,Mid,Forecasting,Gemini,37.5,11.5,8,25.6,Daily,USA,Office
+356,U0356,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,40.6,6.4,3,20.8,Weekly,USA,Hybrid
+357,U0357,Developer,Tech,Mid,Coding Help,ChatGPT,35.0,8.2,4,19.7,Daily,USA,Hybrid
+358,U0358,Developer,Tech,Junior,Documentation,Copilot,40.1,12.1,7,33.1,Weekly,UK,Office
+359,U0359,Designer,Marketing,Mid,Image Generation,Notion AI,44.9,9.0,4,27.0,Daily,Germany,Remote
+360,U0360,Marketing Specialist,Marketing,Mid,Market Research,Gemini,37.5,5.5,4,13.2,Weekly,India,Remote
+361,U0361,Manager,Management,Mid,Scheduling,Notion AI,45.1,14.2,7,32.4,Daily,Canada,Hybrid
+362,U0362,Developer,Tech,Junior,Bug Fixing,ChatGPT,45.8,3.6,2,6.2,Weekly,USA,Remote
+363,U0363,Developer,Tech,Mid,Bug Fixing,ChatGPT,41.5,8.7,5,23.8,Daily,USA,Remote
+364,U0364,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,48.3,4.9,3,13.7,Weekly,Japan,Office
+365,U0365,Designer,Marketing,Mid,Copywriting,Notion AI,42.5,9.2,6,23.5,Daily,USA,Hybrid
+366,U0366,Data Analyst,Tech,Junior,Data Analysis,ChatGPT,42.1,8.3,3,19.0,Daily,Germany,Office
+367,U0367,Designer,Marketing,Senior,Asset Creation,Notion AI,46.1,7.0,3,15.3,Occasional,UK,Remote
+368,U0368,Financial Analyst,Finance,Senior,Email Drafting,Other,38.1,11.0,4,31.5,Daily,Canada,Remote
+369,U0369,Marketing Specialist,Marketing,Mid,Ideation,Gemini,44.0,7.9,5,22.1,Daily,USA,Remote
+370,U0370,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,39.3,7.3,4,20.6,Weekly,USA,Hybrid
+371,U0371,Financial Analyst,Finance,Senior,Forecasting,ChatGPT,42.4,9.6,5,27.9,Daily,Japan,Office
+372,U0372,Developer,Tech,Senior,Code Review,Copilot,42.2,9.5,4,29.9,Weekly,Japan,Hybrid
+373,U0373,Marketing Specialist,Marketing,Mid,Ideation,Gemini,42.1,7.7,6,20.0,Daily,USA,Remote
+374,U0374,Data Analyst,Tech,Senior,Data Analysis,Gemini,43.1,7.2,5,18.6,Daily,Japan,Remote
+375,U0375,Manager,Management,Senior,Strategy,Notion AI,36.1,11.5,7,31.9,Daily,USA,Hybrid
+376,U0376,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,44.0,6.5,3,16.7,Weekly,India,Remote
+377,U0377,Manager,Management,Junior,Report Writing,Other,41.3,10.6,5,29.9,Daily,USA,Office
+378,U0378,Developer,Tech,Junior,Coding Help,Copilot,34.1,13.4,6,30.4,Daily,UK,Office
+379,U0379,Data Analyst,Tech,Mid,Data Analysis,Notion AI,39.7,12.6,8,35.0,Daily,USA,Remote
+380,U0380,Financial Analyst,Finance,Mid,Email Drafting,Notion AI,41.8,2.2,1,3.3,Weekly,USA,Remote
+381,U0381,Financial Analyst,Finance,Mid,Data Analysis,Other,39.0,7.8,2,18.5,Daily,USA,Hybrid
+382,U0382,Developer,Tech,Mid,Coding Help,Notion AI,44.1,5.8,2,15.3,Daily,Australia,Office
+383,U0383,Financial Analyst,Finance,Junior,Forecasting,Gemini,37.2,8.5,4,18.8,Daily,USA,Office
+384,U0384,HR Specialist,HR,Mid,Email Drafting,Gemini,44.4,4.3,3,12.4,Occasional,UK,Remote
+385,U0385,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,37.9,8.3,4,20.4,Daily,India,Remote
+386,U0386,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,44.7,10.1,5,22.9,Weekly,UK,Remote
+387,U0387,Financial Analyst,Finance,Senior,Data Analysis,Gemini,44.4,9.9,5,25.6,Weekly,USA,Hybrid
+388,U0388,Designer,Marketing,Mid,Ideation,Copilot,41.0,4.8,3,8.5,Occasional,Germany,Hybrid
+389,U0389,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,41.9,10.4,5,29.6,Daily,USA,Office
+390,U0390,Data Analyst,Tech,Mid,Data Analysis,Gemini,44.8,8.6,6,22.3,Weekly,Australia,Remote
+391,U0391,Marketing Specialist,Marketing,Junior,Email Drafting,ChatGPT,42.5,8.0,4,14.9,Daily,India,Hybrid
+392,U0392,Marketing Specialist,Marketing,Senior,Copywriting,ChatGPT,46.5,6.1,3,18.1,Weekly,India,Remote
+393,U0393,Developer,Tech,Junior,Coding Help,Copilot,39.9,11.7,6,33.2,Daily,Canada,Hybrid
+394,U0394,Manager,Management,Junior,Email Drafting,Other,44.1,5.4,2,13.9,Occasional,Germany,Office
+395,U0395,Manager,Management,Mid,Email Drafting,Copilot,49.8,7.5,3,20.2,Weekly,USA,Hybrid
+396,U0396,Data Analyst,Tech,Mid,Query Generation,Gemini,33.3,8.3,5,18.9,Occasional,Canada,Remote
+397,U0397,Financial Analyst,Finance,Junior,Email Drafting,ChatGPT,36.3,3.6,2,9.9,Occasional,USA,Office
+398,U0398,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,40.2,9.2,4,25.1,Daily,USA,Remote
+399,U0399,Data Analyst,Tech,Mid,Report Writing,Gemini,47.8,6.8,4,23.3,Weekly,USA,Hybrid
+400,U0400,Data Analyst,Tech,Junior,Report Writing,Notion AI,43.4,4.8,2,11.0,Weekly,USA,Remote
+401,U0401,Data Analyst,Tech,Mid,Data Analysis,Notion AI,47.1,7.6,4,20.4,Occasional,USA,Remote
+402,U0402,Data Analyst,Tech,Junior,Visualization,Gemini,35.0,8.3,6,22.8,Daily,India,Remote
+403,U0403,Marketing Specialist,Marketing,Senior,Email Drafting,Other,46.6,8.3,2,20.2,Occasional,USA,Remote
+404,U0404,Developer,Tech,Junior,Bug Fixing,ChatGPT,48.5,7.7,4,23.8,Daily,Canada,Hybrid
+405,U0405,Data Analyst,Tech,Mid,Report Writing,Other,41.1,7.2,3,21.5,Weekly,UK,Remote
+406,U0406,Manager,Management,Mid,Scheduling,Other,46.3,10.5,5,27.9,Daily,Japan,Hybrid
+407,U0407,Manager,Management,Senior,Report Writing,Notion AI,42.4,6.5,3,16.3,Occasional,India,Hybrid
+408,U0408,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,41.4,11.2,6,27.1,Daily,Japan,Hybrid
+409,U0409,Financial Analyst,Finance,Junior,Data Analysis,Notion AI,43.8,10.4,6,25.1,Daily,USA,Remote
+410,U0410,Data Analyst,Tech,Junior,Report Writing,ChatGPT,40.0,9.9,5,22.5,Weekly,USA,Remote
+411,U0411,Designer,Marketing,Mid,Image Generation,Gemini,51.6,8.0,5,23.4,Weekly,Germany,Remote
+412,U0412,HR Specialist,HR,Mid,Policy Q&A,Gemini,42.3,14.1,7,37.5,Daily,Japan,Remote
+413,U0413,Designer,Marketing,Mid,Asset Creation,ChatGPT,44.5,5.7,3,19.7,Weekly,USA,Office
+414,U0414,Designer,Marketing,Mid,Copywriting,Notion AI,47.4,6.8,3,12.9,Daily,USA,Office
+415,U0415,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,46.7,11.3,7,26.5,Daily,India,Remote
+416,U0416,HR Specialist,HR,Senior,Policy Q&A,Notion AI,41.6,11.1,5,31.4,Daily,UK,Hybrid
+417,U0417,HR Specialist,HR,Junior,Email Drafting,ChatGPT,41.8,7.8,4,23.6,Daily,USA,Hybrid
+418,U0418,Developer,Tech,Junior,Code Review,Gemini,43.1,9.6,5,18.3,Daily,USA,Hybrid
+419,U0419,HR Specialist,HR,Junior,Job Description Writing,Gemini,41.9,6.2,5,12.0,Daily,USA,Office
+420,U0420,Developer,Tech,Mid,Code Review,Copilot,42.8,10.3,6,22.9,Daily,USA,Hybrid
+421,U0421,Developer,Tech,Mid,Documentation,Gemini,38.0,13.4,8,33.2,Daily,USA,Remote
+422,U0422,Developer,Tech,Mid,Documentation,ChatGPT,50.9,7.6,5,20.0,Weekly,Germany,Remote
+423,U0423,Financial Analyst,Finance,Junior,Forecasting,ChatGPT,39.6,6.2,2,16.6,Daily,USA,Hybrid
+424,U0424,Marketing Specialist,Marketing,Junior,Email Drafting,Gemini,41.3,8.1,5,17.5,Daily,Germany,Hybrid
+425,U0425,Marketing Specialist,Marketing,Mid,Copywriting,ChatGPT,46.9,9.4,5,21.3,Daily,USA,Hybrid
+426,U0426,Developer,Tech,Mid,Documentation,Copilot,34.4,5.3,3,17.8,Daily,Japan,Remote
+427,U0427,Developer,Tech,Mid,Documentation,Copilot,43.5,3.7,2,9.9,Weekly,UK,Remote
+428,U0428,Developer,Tech,Junior,Documentation,Notion AI,44.5,12.1,8,25.5,Daily,USA,Remote
+429,U0429,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,44.9,8.9,4,22.1,Daily,UK,Office
+430,U0430,Manager,Management,Mid,Email Drafting,ChatGPT,44.2,5.5,3,11.7,Daily,India,Remote
+431,U0431,HR Specialist,HR,Mid,Policy Q&A,Notion AI,39.3,8.2,4,20.2,Weekly,UK,Hybrid
+432,U0432,Marketing Specialist,Marketing,Mid,Ideation,Notion AI,36.7,9.9,6,23.5,Daily,USA,Remote
+433,U0433,Manager,Management,Mid,Email Drafting,Copilot,39.1,8.4,4,24.5,Daily,USA,Office
+434,U0434,HR Specialist,HR,Mid,Report Writing,ChatGPT,44.1,12.3,6,28.2,Daily,USA,Office
+435,U0435,Designer,Marketing,Mid,Asset Creation,Notion AI,37.8,7.1,3,18.1,Daily,Japan,Remote
+436,U0436,Developer,Tech,Junior,Bug Fixing,ChatGPT,36.0,5.0,2,10.8,Occasional,Germany,Office
+437,U0437,Developer,Tech,Mid,Bug Fixing,ChatGPT,37.6,6.4,3,21.8,Daily,USA,Hybrid
+438,U0438,Developer,Tech,Senior,Coding Help,Copilot,45.2,8.1,4,19.7,Occasional,USA,Remote
+439,U0439,Data Analyst,Tech,Mid,Report Writing,Other,54.8,9.5,5,25.4,Daily,UK,Hybrid
+440,U0440,HR Specialist,HR,Mid,Email Drafting,Notion AI,43.4,6.8,3,11.4,Weekly,USA,Hybrid
+441,U0441,Developer,Tech,Junior,Bug Fixing,Copilot,46.3,10.5,5,22.7,Daily,Japan,Remote
+442,U0442,HR Specialist,HR,Senior,Policy Q&A,ChatGPT,37.7,7.3,4,20.0,Daily,USA,Office
+443,U0443,Data Analyst,Tech,Mid,Query Generation,Gemini,44.5,10.0,7,23.6,Occasional,UK,Hybrid
+444,U0444,Financial Analyst,Finance,Senior,Email Drafting,ChatGPT,38.9,5.2,2,10.0,Weekly,USA,Remote
+445,U0445,Data Analyst,Tech,Senior,Query Generation,Notion AI,45.8,13.6,8,35.6,Daily,Japan,Office
+446,U0446,Developer,Tech,Senior,Documentation,Copilot,55.4,11.7,6,26.6,Daily,India,Remote
+447,U0447,Developer,Tech,Mid,Code Review,Copilot,46.2,6.2,4,19.7,Daily,USA,Office
+448,U0448,Financial Analyst,Finance,Mid,Data Analysis,Gemini,41.2,5.8,4,12.6,Daily,USA,Hybrid
+449,U0449,Data Analyst,Tech,Senior,Query Generation,Copilot,37.3,7.5,4,15.9,Daily,USA,Remote
+450,U0450,Financial Analyst,Finance,Junior,Report Writing,ChatGPT,42.9,11.3,5,26.4,Daily,Japan,Hybrid
+451,U0451,Manager,Management,Mid,Strategy,ChatGPT,47.4,7.1,4,17.7,Daily,India,Remote
+452,U0452,HR Specialist,HR,Mid,Email Drafting,Notion AI,43.6,12.6,6,32.6,Daily,USA,Office
+453,U0453,Marketing Specialist,Marketing,Senior,Email Drafting,Gemini,48.8,9.9,5,30.9,Daily,USA,Remote
+454,U0454,Data Analyst,Tech,Mid,Data Analysis,Gemini,39.3,7.5,4,24.0,Weekly,USA,Hybrid
+455,U0455,Developer,Tech,Senior,Code Review,Gemini,45.2,5.4,4,13.9,Weekly,USA,Remote
+456,U0456,Data Analyst,Tech,Mid,Data Analysis,Gemini,39.2,7.3,4,19.4,Daily,UK,Hybrid
+457,U0457,Financial Analyst,Finance,Junior,Email Drafting,ChatGPT,41.4,7.5,4,21.2,Daily,UK,Remote
+458,U0458,Developer,Tech,Mid,Bug Fixing,Gemini,36.7,9.7,6,23.4,Daily,USA,Hybrid
+459,U0459,Designer,Marketing,Senior,Ideation,ChatGPT,44.6,3.1,1,11.7,Weekly,USA,Remote
+460,U0460,Manager,Management,Mid,Strategy,Notion AI,37.3,5.5,4,8.3,Occasional,India,Remote
+461,U0461,Manager,Management,Senior,Email Drafting,Other,38.5,10.9,6,24.3,Daily,UK,Hybrid
+462,U0462,Marketing Specialist,Marketing,Mid,Market Research,Other,34.2,8.0,3,25.7,Occasional,Japan,Remote
+463,U0463,Financial Analyst,Finance,Junior,Email Drafting,ChatGPT,41.6,6.2,4,17.2,Weekly,USA,Office
+464,U0464,Data Analyst,Tech,Mid,Report Writing,Gemini,34.3,7.7,6,20.5,Daily,Germany,Remote
+465,U0465,Designer,Marketing,Mid,Ideation,Notion AI,43.5,11.4,7,28.2,Occasional,Germany,Hybrid
+466,U0466,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,37.2,7.0,3,16.1,Daily,Germany,Hybrid
+467,U0467,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,36.9,10.6,5,35.4,Daily,USA,Remote
+468,U0468,Financial Analyst,Finance,Junior,Report Writing,Gemini,36.8,7.9,5,17.7,Daily,Canada,Hybrid
+469,U0469,Designer,Marketing,Junior,Ideation,Notion AI,48.2,10.3,5,23.4,Daily,USA,Remote
+470,U0470,Marketing Specialist,Marketing,Mid,Copywriting,ChatGPT,41.5,10.9,5,25.3,Weekly,UK,Hybrid
+471,U0471,HR Specialist,HR,Mid,Policy Q&A,Gemini,44.7,8.3,3,22.8,Daily,India,Remote
+472,U0472,Developer,Tech,Mid,Coding Help,ChatGPT,42.3,11.6,6,28.3,Daily,USA,Hybrid
+473,U0473,Designer,Marketing,Mid,Asset Creation,ChatGPT,47.1,7.2,4,19.0,Daily,USA,Remote
+474,U0474,Manager,Management,Junior,Email Drafting,Gemini,41.8,7.1,4,19.8,Daily,Japan,Office
+475,U0475,HR Specialist,HR,Senior,Job Description Writing,Notion AI,37.1,8.4,5,13.7,Occasional,Australia,Office
+476,U0476,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,36.1,10.8,4,28.7,Daily,India,Remote
+477,U0477,Data Analyst,Tech,Mid,Visualization,Gemini,49.4,8.1,5,18.5,Weekly,USA,Hybrid
+478,U0478,Marketing Specialist,Marketing,Senior,Copywriting,Gemini,38.2,12.3,6,29.4,Weekly,Japan,Hybrid
+479,U0479,Financial Analyst,Finance,Junior,Forecasting,Other,43.5,4.6,2,9.8,Daily,India,Hybrid
+480,U0480,Developer,Tech,Junior,Documentation,Copilot,40.1,4.4,2,11.7,Weekly,Japan,Office
+481,U0481,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,41.0,7.5,4,23.6,Daily,USA,Remote
+482,U0482,Designer,Marketing,Mid,Copywriting,Gemini,40.9,11.3,6,27.7,Daily,USA,Remote
+483,U0483,HR Specialist,HR,Junior,Email Drafting,Gemini,37.4,4.9,3,6.3,Daily,India,Office
+484,U0484,Data Analyst,Tech,Senior,Data Analysis,Gemini,44.2,4.3,4,7.5,Occasional,USA,Remote
+485,U0485,Developer,Tech,Mid,Documentation,Copilot,43.6,10.8,5,27.5,Daily,UK,Remote
+486,U0486,Developer,Tech,Junior,Code Review,Gemini,35.0,4.2,3,11.5,Weekly,Japan,Remote
+487,U0487,Developer,Tech,Mid,Documentation,Gemini,42.0,9.9,6,24.9,Daily,USA,Hybrid
+488,U0488,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,35.4,7.7,4,20.0,Daily,Canada,Remote
+489,U0489,Data Analyst,Tech,Senior,Query Generation,Gemini,50.5,8.9,5,21.3,Weekly,USA,Hybrid
+490,U0490,Developer,Tech,Junior,Coding Help,ChatGPT,49.9,5.5,3,12.4,Weekly,UK,Office
+491,U0491,Financial Analyst,Finance,Mid,Report Writing,Gemini,44.8,8.7,6,21.0,Occasional,Germany,Hybrid
+492,U0492,Financial Analyst,Finance,Mid,Report Writing,Gemini,40.5,12.3,7,27.4,Daily,India,Office
+493,U0493,Developer,Tech,Senior,Documentation,Notion AI,40.4,10.3,4,27.5,Daily,Germany,Hybrid
+494,U0494,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,41.6,12.0,5,28.7,Daily,Japan,Remote
+495,U0495,Developer,Tech,Mid,Documentation,ChatGPT,37.3,9.0,5,25.1,Daily,USA,Hybrid
+496,U0496,Data Analyst,Tech,Mid,Query Generation,ChatGPT,49.8,9.5,4,23.1,Daily,USA,Hybrid
+497,U0497,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,49.0,13.7,7,33.9,Daily,UK,Office
+498,U0498,Developer,Tech,Mid,Bug Fixing,ChatGPT,42.4,7.5,4,20.7,Daily,USA,Remote
+499,U0499,Data Analyst,Tech,Junior,Data Analysis,Notion AI,36.5,9.0,5,23.1,Weekly,USA,Hybrid
+500,U0500,Developer,Tech,Junior,Coding Help,Copilot,42.8,12.4,6,27.8,Daily,Japan,Hybrid
+501,U0501,Financial Analyst,Finance,Mid,Forecasting,Notion AI,43.7,3.5,1,10.1,Weekly,USA,Office
+502,U0502,Data Analyst,Tech,Mid,Query Generation,Copilot,45.9,11.5,5,28.6,Daily,UK,Hybrid
+503,U0503,Marketing Specialist,Marketing,Senior,Ideation,Gemini,48.3,9.6,6,21.1,Weekly,USA,Remote
+504,U0504,Marketing Specialist,Marketing,Junior,Email Drafting,ChatGPT,38.4,9.0,5,22.1,Occasional,India,Hybrid
+505,U0505,Developer,Tech,Senior,Coding Help,ChatGPT,46.2,8.8,4,22.8,Daily,USA,Remote
+506,U0506,Developer,Tech,Mid,Coding Help,Copilot,44.6,11.1,5,24.3,Weekly,Japan,Remote
+507,U0507,Manager,Management,Mid,Strategy,ChatGPT,36.9,7.6,4,24.1,Daily,Germany,Hybrid
+508,U0508,Developer,Tech,Junior,Documentation,Copilot,43.0,4.5,2,10.9,Weekly,India,Remote
+509,U0509,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,43.5,10.4,5,25.6,Daily,India,Hybrid
+510,U0510,Marketing Specialist,Marketing,Junior,Copywriting,ChatGPT,31.4,7.3,3,17.3,Weekly,USA,Hybrid
+511,U0511,HR Specialist,HR,Mid,Email Drafting,Notion AI,47.3,4.7,2,14.5,Weekly,USA,Office
+512,U0512,Developer,Tech,Junior,Documentation,Copilot,42.2,2.1,1,2.2,Weekly,India,Remote
+513,U0513,Developer,Tech,Senior,Code Review,Copilot,48.3,8.3,4,22.4,Daily,India,Remote
+514,U0514,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,42.5,9.1,5,21.3,Daily,India,Remote
+515,U0515,Developer,Tech,Mid,Code Review,Copilot,35.6,8.5,4,24.8,Daily,India,Hybrid
+516,U0516,Financial Analyst,Finance,Junior,Report Writing,ChatGPT,42.9,9.4,5,21.0,Daily,India,Office
+517,U0517,Developer,Tech,Mid,Coding Help,Copilot,36.5,9.4,4,21.2,Daily,UK,Remote
+518,U0518,Financial Analyst,Finance,Mid,Email Drafting,Copilot,42.2,5.8,3,13.1,Daily,Canada,Hybrid
+519,U0519,Developer,Tech,Mid,Bug Fixing,Copilot,42.3,15.2,7,43.5,Daily,UK,Hybrid
+520,U0520,Data Analyst,Tech,Mid,Data Analysis,Gemini,35.1,8.6,6,24.3,Daily,Japan,Hybrid
+521,U0521,Manager,Management,Mid,Email Drafting,Copilot,38.8,8.6,4,24.7,Daily,USA,Hybrid
+522,U0522,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,47.2,13.2,9,34.8,Daily,Japan,Hybrid
+523,U0523,Developer,Tech,Mid,Documentation,Gemini,45.7,8.9,5,22.9,Daily,India,Office
+524,U0524,Financial Analyst,Finance,Senior,Email Drafting,Copilot,41.1,8.0,5,20.0,Occasional,Australia,Office
+525,U0525,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,42.1,10.1,5,22.1,Daily,USA,Office
+526,U0526,Developer,Tech,Mid,Code Review,Copilot,45.6,6.9,4,24.6,Daily,UK,Remote
+527,U0527,Marketing Specialist,Marketing,Mid,Email Drafting,Notion AI,37.1,9.8,5,30.1,Weekly,UK,Hybrid
+528,U0528,Designer,Marketing,Junior,Asset Creation,ChatGPT,34.8,7.9,4,15.1,Daily,India,Hybrid
+529,U0529,Developer,Tech,Junior,Bug Fixing,Copilot,40.2,9.8,5,25.1,Weekly,Canada,Remote
+530,U0530,Financial Analyst,Finance,Mid,Forecasting,Notion AI,46.3,7.8,4,21.2,Daily,USA,Office
+531,U0531,Developer,Tech,Mid,Documentation,Copilot,46.9,3.2,1,1.9,Occasional,India,Remote
+532,U0532,Developer,Tech,Mid,Documentation,Copilot,42.8,10.0,5,25.1,Daily,Canada,Remote
+533,U0533,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,30.6,9.3,4,20.8,Daily,USA,Remote
+534,U0534,Developer,Tech,Junior,Bug Fixing,Notion AI,48.8,12.6,7,35.2,Daily,India,Hybrid
+535,U0535,Manager,Management,Mid,Report Writing,Notion AI,45.1,11.7,7,30.4,Daily,India,Office
+536,U0536,Developer,Tech,Mid,Code Review,Copilot,43.7,4.9,2,11.9,Occasional,Australia,Remote
+537,U0537,Developer,Tech,Senior,Code Review,Copilot,42.9,8.2,5,17.8,Weekly,India,Remote
+538,U0538,Developer,Tech,Junior,Code Review,Copilot,40.9,8.9,4,23.6,Weekly,UK,Remote
+539,U0539,Designer,Marketing,Mid,Asset Creation,Gemini,45.6,7.7,5,18.3,Occasional,Australia,Hybrid
+540,U0540,Data Analyst,Tech,Mid,Report Writing,ChatGPT,40.4,9.0,6,23.2,Daily,USA,Hybrid
+541,U0541,Designer,Marketing,Mid,Image Generation,Gemini,37.4,10.6,7,23.8,Daily,Germany,Remote
+542,U0542,Financial Analyst,Finance,Junior,Report Writing,ChatGPT,43.1,9.4,5,21.7,Daily,Japan,Office
+543,U0543,Developer,Tech,Senior,Coding Help,ChatGPT,43.7,10.3,5,25.6,Weekly,USA,Hybrid
+544,U0544,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,41.4,8.4,4,17.8,Daily,Germany,Office
+545,U0545,Designer,Marketing,Junior,Copywriting,Gemini,41.5,5.8,3,12.4,Occasional,Canada,Remote
+546,U0546,Designer,Marketing,Senior,Image Generation,ChatGPT,45.6,11.4,7,24.8,Daily,India,Remote
+547,U0547,Data Analyst,Tech,Mid,Visualization,Gemini,45.3,7.9,5,22.8,Daily,USA,Remote
+548,U0548,Marketing Specialist,Marketing,Mid,Market Research,Gemini,46.8,5.2,3,19.0,Daily,Germany,Remote
+549,U0549,Manager,Management,Junior,Report Writing,ChatGPT,34.9,7.2,3,18.1,Weekly,Japan,Hybrid
+550,U0550,Developer,Tech,Junior,Bug Fixing,Copilot,50.2,10.2,6,25.2,Weekly,India,Hybrid
+551,U0551,Marketing Specialist,Marketing,Junior,Market Research,Gemini,41.2,8.4,5,20.6,Weekly,India,Remote
+552,U0552,Manager,Management,Senior,Scheduling,Gemini,45.1,8.0,6,20.0,Daily,USA,Remote
+553,U0553,Manager,Management,Mid,Report Writing,Gemini,41.4,8.5,4,20.2,Weekly,UK,Office
+554,U0554,HR Specialist,HR,Junior,Job Description Writing,ChatGPT,48.6,5.6,2,16.9,Daily,Canada,Office
+555,U0555,Developer,Tech,Junior,Coding Help,ChatGPT,48.1,10.6,5,23.3,Daily,Germany,Hybrid
+556,U0556,Manager,Management,Mid,Email Drafting,Gemini,43.4,10.3,6,21.0,Daily,India,Office
+557,U0557,Developer,Tech,Senior,Documentation,ChatGPT,39.0,6.0,4,14.6,Weekly,Canada,Hybrid
+558,U0558,Data Analyst,Tech,Senior,Visualization,Gemini,38.1,8.5,5,20.2,Daily,USA,Remote
+559,U0559,Marketing Specialist,Marketing,Senior,Ideation,Other,40.6,13.6,5,29.3,Daily,UK,Remote
+560,U0560,Developer,Tech,Mid,Bug Fixing,ChatGPT,40.4,7.7,3,18.1,Daily,India,Remote
+561,U0561,HR Specialist,HR,Mid,Policy Q&A,Gemini,46.1,7.9,5,16.9,Daily,Japan,Office
+562,U0562,Financial Analyst,Finance,Mid,Forecasting,Gemini,43.3,4.4,2,8.2,Daily,India,Office
+563,U0563,HR Specialist,HR,Mid,Report Writing,ChatGPT,41.6,10.9,6,25.1,Daily,Germany,Office
+564,U0564,Marketing Specialist,Marketing,Mid,Ideation,Notion AI,36.1,10.3,5,25.8,Daily,Australia,Remote
+565,U0565,Financial Analyst,Finance,Senior,Data Analysis,Copilot,39.9,12.2,6,34.7,Daily,USA,Remote
+566,U0566,Developer,Tech,Mid,Bug Fixing,Copilot,40.0,10.9,5,22.6,Weekly,Japan,Hybrid
+567,U0567,Manager,Management,Junior,Scheduling,Gemini,36.5,7.5,4,19.2,Daily,Australia,Remote
+568,U0568,HR Specialist,HR,Junior,Job Description Writing,Gemini,45.7,10.6,6,27.2,Daily,India,Office
+569,U0569,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,38.4,4.9,3,13.3,Weekly,USA,Hybrid
+570,U0570,Developer,Tech,Junior,Documentation,ChatGPT,39.9,9.7,4,29.6,Daily,Japan,Remote
+571,U0571,Developer,Tech,Junior,Documentation,Copilot,47.4,7.3,4,18.8,Occasional,Canada,Hybrid
+572,U0572,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,44.3,6.5,4,18.6,Weekly,Canada,Hybrid
+573,U0573,Marketing Specialist,Marketing,Senior,Ideation,Gemini,43.4,7.8,5,17.2,Daily,Japan,Remote
+574,U0574,Developer,Tech,Senior,Documentation,Copilot,46.2,7.7,4,19.0,Weekly,UK,Remote
+575,U0575,HR Specialist,HR,Junior,Report Writing,Gemini,38.1,13.0,7,27.0,Daily,India,Office
+576,U0576,Financial Analyst,Finance,Mid,Data Analysis,Copilot,40.1,7.1,4,19.8,Daily,India,Hybrid
+577,U0577,Financial Analyst,Finance,Junior,Forecasting,ChatGPT,44.2,4.6,2,7.6,Weekly,Germany,Office
+578,U0578,Developer,Tech,Mid,Documentation,Copilot,45.6,7.0,4,13.7,Daily,USA,Remote
+579,U0579,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,49.2,10.1,6,27.4,Weekly,Australia,Remote
+580,U0580,Developer,Tech,Junior,Documentation,Gemini,40.5,7.9,5,19.3,Daily,India,Hybrid
+581,U0581,Marketing Specialist,Marketing,Senior,Ideation,Gemini,43.2,12.7,7,30.8,Daily,Australia,Hybrid
+582,U0582,HR Specialist,HR,Senior,Policy Q&A,Gemini,37.5,13.8,8,36.6,Daily,UK,Remote
+583,U0583,Developer,Tech,Senior,Code Review,ChatGPT,38.6,12.2,7,28.8,Daily,Germany,Office
+584,U0584,Developer,Tech,Junior,Coding Help,Gemini,42.0,14.9,8,35.8,Daily,Japan,Hybrid
+585,U0585,Developer,Tech,Junior,Bug Fixing,ChatGPT,44.5,11.9,6,29.5,Daily,UK,Hybrid
+586,U0586,Data Analyst,Tech,Senior,Query Generation,Gemini,42.0,5.6,4,14.5,Weekly,USA,Hybrid
+587,U0587,HR Specialist,HR,Mid,Report Writing,Gemini,42.2,7.0,5,11.9,Weekly,Australia,Office
+588,U0588,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,49.6,8.3,5,24.0,Daily,India,Remote
+589,U0589,Manager,Management,Junior,Strategy,Copilot,42.9,6.9,4,18.9,Weekly,USA,Hybrid
+590,U0590,HR Specialist,HR,Mid,Report Writing,Gemini,46.2,6.9,4,17.0,Daily,India,Remote
+591,U0591,HR Specialist,HR,Mid,Email Drafting,Other,38.9,9.4,4,27.1,Daily,Japan,Office
+592,U0592,Developer,Tech,Senior,Code Review,ChatGPT,49.5,11.3,5,34.1,Daily,USA,Hybrid
+593,U0593,Manager,Management,Senior,Scheduling,Gemini,38.5,7.8,6,17.6,Daily,Japan,Hybrid
+594,U0594,Marketing Specialist,Marketing,Mid,Email Drafting,Notion AI,37.9,7.8,5,22.1,Daily,India,Office
+595,U0595,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,47.2,7.9,5,19.6,Weekly,USA,Remote
+596,U0596,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,41.6,8.6,4,19.0,Daily,USA,Office
+597,U0597,Manager,Management,Mid,Scheduling,Copilot,39.2,12.2,6,32.8,Daily,USA,Remote
+598,U0598,Marketing Specialist,Marketing,Mid,Ideation,Notion AI,46.7,6.6,3,16.6,Weekly,India,Hybrid
+599,U0599,Data Analyst,Tech,Mid,Query Generation,Gemini,49.9,6.7,5,16.4,Occasional,Japan,Hybrid
+600,U0600,HR Specialist,HR,Junior,Report Writing,ChatGPT,38.4,11.1,6,25.4,Daily,India,Office
+601,U0601,Developer,Tech,Mid,Documentation,Gemini,36.4,13.6,9,32.1,Daily,Japan,Office
+602,U0602,Developer,Tech,Senior,Documentation,Copilot,43.1,11.3,5,27.3,Daily,USA,Hybrid
+603,U0603,Manager,Management,Senior,Scheduling,Notion AI,47.1,10.4,6,29.6,Daily,USA,Remote
+604,U0604,Developer,Tech,Mid,Coding Help,ChatGPT,45.2,6.4,3,14.7,Daily,India,Hybrid
+605,U0605,Manager,Management,Mid,Strategy,Gemini,52.0,9.2,5,21.1,Daily,USA,Office
+606,U0606,Manager,Management,Mid,Strategy,ChatGPT,39.9,7.9,4,24.3,Weekly,UK,Hybrid
+607,U0607,Financial Analyst,Finance,Senior,Data Analysis,ChatGPT,38.9,7.0,3,12.3,Weekly,USA,Hybrid
+608,U0608,Financial Analyst,Finance,Mid,Forecasting,Copilot,42.7,6.8,3,19.6,Weekly,USA,Office
+609,U0609,Data Analyst,Tech,Junior,Report Writing,Gemini,39.7,6.8,5,16.7,Daily,Canada,Remote
+610,U0610,Marketing Specialist,Marketing,Junior,Email Drafting,Gemini,33.5,6.1,4,20.8,Daily,Japan,Office
+611,U0611,Manager,Management,Mid,Strategy,ChatGPT,37.5,7.7,4,19.1,Weekly,USA,Hybrid
+612,U0612,HR Specialist,HR,Senior,Policy Q&A,Gemini,42.1,14.3,8,36.8,Daily,Canada,Remote
+613,U0613,Financial Analyst,Finance,Mid,Data Analysis,Notion AI,38.3,7.2,4,15.2,Weekly,Australia,Hybrid
+614,U0614,Manager,Management,Junior,Scheduling,Notion AI,38.1,6.0,4,14.7,Daily,USA,Hybrid
+615,U0615,Manager,Management,Mid,Scheduling,Other,42.5,5.2,1,14.2,Daily,USA,Office
+616,U0616,Developer,Tech,Mid,Bug Fixing,Copilot,46.0,15.0,8,34.8,Daily,Japan,Hybrid
+617,U0617,HR Specialist,HR,Junior,Report Writing,Notion AI,46.0,5.7,2,15.4,Daily,Australia,Remote
+618,U0618,Developer,Tech,Junior,Code Review,ChatGPT,40.0,3.0,1,9.3,Daily,India,Hybrid
+619,U0619,Developer,Tech,Senior,Code Review,ChatGPT,46.7,9.6,5,28.7,Daily,Germany,Hybrid
+620,U0620,Designer,Marketing,Junior,Asset Creation,Gemini,33.1,9.5,6,20.1,Daily,USA,Remote
+621,U0621,Data Analyst,Tech,Junior,Data Analysis,Gemini,38.8,7.2,4,18.0,Daily,Japan,Remote
+622,U0622,Developer,Tech,Mid,Coding Help,Copilot,45.8,12.4,7,27.7,Daily,USA,Remote
+623,U0623,Designer,Marketing,Senior,Asset Creation,Notion AI,40.3,8.7,4,18.1,Daily,Australia,Remote
+624,U0624,Marketing Specialist,Marketing,Mid,Market Research,Gemini,43.3,8.9,6,22.4,Daily,Japan,Remote
+625,U0625,Financial Analyst,Finance,Junior,Report Writing,Gemini,42.0,7.3,4,15.2,Weekly,UK,Hybrid
+626,U0626,Manager,Management,Senior,Scheduling,Gemini,33.8,12.7,7,32.9,Daily,USA,Office
+627,U0627,Financial Analyst,Finance,Junior,Email Drafting,Other,38.2,9.7,4,24.9,Daily,Canada,Hybrid
+628,U0628,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,41.3,8.3,4,23.3,Daily,USA,Office
+629,U0629,Designer,Marketing,Mid,Ideation,ChatGPT,43.7,8.2,4,19.7,Daily,India,Hybrid
+630,U0630,Financial Analyst,Finance,Junior,Data Analysis,ChatGPT,45.4,7.3,3,13.1,Daily,USA,Hybrid
+631,U0631,Designer,Marketing,Mid,Copywriting,Other,34.0,9.9,4,23.3,Daily,Canada,Remote
+632,U0632,Developer,Tech,Mid,Documentation,Copilot,36.7,9.4,5,19.6,Daily,Japan,Hybrid
+633,U0633,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,38.9,6.7,3,20.1,Daily,USA,Office
+634,U0634,Developer,Tech,Junior,Documentation,Copilot,41.1,3.9,2,15.4,Weekly,India,Hybrid
+635,U0635,Designer,Marketing,Mid,Image Generation,Notion AI,54.0,6.8,3,18.8,Daily,UK,Hybrid
+636,U0636,Manager,Management,Mid,Scheduling,Gemini,38.6,6.0,4,16.5,Daily,UK,Office
+637,U0637,Developer,Tech,Senior,Code Review,Gemini,39.3,9.8,6,24.3,Daily,India,Hybrid
+638,U0638,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,44.0,8.9,4,30.3,Weekly,Japan,Remote
+639,U0639,Data Analyst,Tech,Mid,Report Writing,Gemini,38.2,10.2,5,28.7,Daily,UK,Hybrid
+640,U0640,Marketing Specialist,Marketing,Senior,Email Drafting,Gemini,48.7,11.6,8,27.2,Daily,Australia,Remote
+641,U0641,HR Specialist,HR,Senior,Report Writing,Gemini,39.6,8.3,6,17.6,Weekly,Japan,Office
+642,U0642,Financial Analyst,Finance,Senior,Email Drafting,ChatGPT,42.8,4.8,2,12.3,Weekly,USA,Hybrid
+643,U0643,Developer,Tech,Junior,Bug Fixing,Gemini,36.8,8.9,6,18.8,Daily,Japan,Hybrid
+644,U0644,Data Analyst,Tech,Mid,Data Analysis,ChatGPT,45.7,9.0,4,23.7,Daily,USA,Hybrid
+645,U0645,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,41.5,6.6,3,17.2,Daily,UK,Hybrid
+646,U0646,Developer,Tech,Senior,Documentation,Copilot,49.7,15.0,8,43.6,Daily,Australia,Hybrid
+647,U0647,HR Specialist,HR,Junior,Report Writing,Notion AI,42.8,6.0,2,15.4,Daily,USA,Office
+648,U0648,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,39.3,6.2,4,15.5,Weekly,UK,Office
+649,U0649,Designer,Marketing,Junior,Ideation,Gemini,51.7,6.6,4,14.0,Weekly,Japan,Remote
+650,U0650,Marketing Specialist,Marketing,Senior,Ideation,Notion AI,40.7,8.9,5,21.5,Occasional,USA,Remote
+651,U0651,Data Analyst,Tech,Junior,Report Writing,Gemini,35.7,6.2,3,10.8,Occasional,UK,Hybrid
+652,U0652,Manager,Management,Senior,Email Drafting,Copilot,34.3,8.8,4,25.9,Weekly,India,Hybrid
+653,U0653,Developer,Tech,Senior,Code Review,Other,36.3,10.8,4,25.8,Daily,Canada,Hybrid
+654,U0654,Financial Analyst,Finance,Junior,Data Analysis,ChatGPT,44.8,11.3,5,25.3,Daily,Japan,Remote
+655,U0655,HR Specialist,HR,Mid,Email Drafting,Gemini,49.1,3.2,2,8.2,Weekly,USA,Office
+656,U0656,Marketing Specialist,Marketing,Junior,Copywriting,Notion AI,35.1,8.6,5,20.0,Daily,Germany,Remote
+657,U0657,Designer,Marketing,Senior,Image Generation,Copilot,42.7,10.0,5,24.1,Daily,USA,Hybrid
+658,U0658,Designer,Marketing,Junior,Ideation,Notion AI,37.5,4.6,3,7.5,Occasional,USA,Hybrid
+659,U0659,Data Analyst,Tech,Mid,Query Generation,Gemini,46.9,4.3,2,5.9,Occasional,India,Hybrid
+660,U0660,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,45.7,8.7,6,24.8,Weekly,USA,Hybrid
+661,U0661,Developer,Tech,Mid,Documentation,ChatGPT,44.9,5.9,3,17.4,Weekly,India,Remote
+662,U0662,Marketing Specialist,Marketing,Mid,Market Research,Notion AI,40.1,14.2,8,39.7,Daily,USA,Hybrid
+663,U0663,Data Analyst,Tech,Senior,Data Analysis,ChatGPT,39.9,11.4,6,30.3,Daily,India,Remote
+664,U0664,Manager,Management,Mid,Report Writing,Copilot,37.4,14.4,8,40.1,Daily,India,Hybrid
+665,U0665,Financial Analyst,Finance,Junior,Report Writing,Notion AI,35.2,11.1,6,26.5,Daily,India,Hybrid
+666,U0666,Marketing Specialist,Marketing,Senior,Ideation,Gemini,50.8,8.1,5,23.3,Daily,Germany,Hybrid
+667,U0667,Designer,Marketing,Mid,Copywriting,Notion AI,47.0,8.1,6,22.9,Daily,India,Office
+668,U0668,Developer,Tech,Junior,Bug Fixing,Copilot,40.0,4.9,3,7.9,Occasional,USA,Hybrid
+669,U0669,Designer,Marketing,Mid,Image Generation,Gemini,38.3,10.8,6,22.8,Daily,India,Office
+670,U0670,HR Specialist,HR,Junior,Policy Q&A,Gemini,41.8,4.7,3,15.0,Weekly,USA,Office
+671,U0671,Developer,Tech,Mid,Bug Fixing,Copilot,46.1,8.2,5,23.4,Daily,India,Remote
+672,U0672,Marketing Specialist,Marketing,Junior,Market Research,Gemini,42.7,6.8,5,19.0,Weekly,UK,Remote
+673,U0673,Designer,Marketing,Senior,Copywriting,Notion AI,46.0,6.7,4,11.4,Daily,USA,Remote
+674,U0674,Financial Analyst,Finance,Mid,Data Analysis,Copilot,42.0,7.4,3,16.4,Daily,USA,Hybrid
+675,U0675,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,45.6,9.3,6,18.3,Weekly,Japan,Remote
+676,U0676,Marketing Specialist,Marketing,Senior,Email Drafting,Notion AI,42.9,3.2,2,8.5,Occasional,Japan,Hybrid
+677,U0677,Manager,Management,Mid,Strategy,ChatGPT,43.0,6.7,3,17.8,Daily,Germany,Hybrid
+678,U0678,Financial Analyst,Finance,Mid,Data Analysis,Copilot,43.5,8.0,4,16.1,Weekly,India,Remote
+679,U0679,Marketing Specialist,Marketing,Senior,Email Drafting,Gemini,42.1,6.3,4,9.2,Weekly,UK,Hybrid
+680,U0680,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,45.8,8.8,4,22.2,Daily,Germany,Office
+681,U0681,Financial Analyst,Finance,Senior,Forecasting,ChatGPT,38.6,11.9,6,31.8,Daily,Germany,Office
+682,U0682,Manager,Management,Mid,Strategy,Notion AI,39.5,4.3,1,12.4,Daily,Australia,Hybrid
+683,U0683,Financial Analyst,Finance,Mid,Forecasting,ChatGPT,45.6,7.1,4,10.9,Weekly,UK,Hybrid
+684,U0684,Data Analyst,Tech,Junior,Query Generation,ChatGPT,43.6,7.1,3,18.8,Daily,India,Hybrid
+685,U0685,Designer,Marketing,Junior,Image Generation,Gemini,45.1,5.4,3,12.7,Daily,Germany,Hybrid
+686,U0686,Designer,Marketing,Mid,Ideation,Other,34.4,7.4,3,19.1,Weekly,Japan,Hybrid
+687,U0687,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,36.3,4.3,4,11.5,Occasional,USA,Office
+688,U0688,HR Specialist,HR,Mid,Email Drafting,Gemini,34.7,6.8,3,15.2,Daily,Japan,Hybrid
+689,U0689,Developer,Tech,Junior,Bug Fixing,Other,44.7,6.7,3,18.4,Weekly,Germany,Remote
+690,U0690,Marketing Specialist,Marketing,Senior,Copywriting,Notion AI,37.3,5.8,3,13.8,Daily,India,Hybrid
+691,U0691,Developer,Tech,Junior,Code Review,Copilot,50.8,9.6,4,22.1,Weekly,Japan,Remote
+692,U0692,Marketing Specialist,Marketing,Junior,Ideation,Gemini,42.1,8.5,5,16.5,Daily,Germany,Remote
+693,U0693,Financial Analyst,Finance,Senior,Data Analysis,ChatGPT,43.6,5.2,2,14.3,Weekly,USA,Office
+694,U0694,Designer,Marketing,Junior,Asset Creation,Copilot,33.7,12.4,6,32.3,Daily,India,Hybrid
+695,U0695,Marketing Specialist,Marketing,Senior,Ideation,ChatGPT,48.0,9.8,5,25.8,Daily,UK,Hybrid
+696,U0696,Developer,Tech,Senior,Documentation,Copilot,39.2,9.4,5,23.7,Weekly,Germany,Hybrid
+697,U0697,Designer,Marketing,Junior,Asset Creation,Notion AI,45.1,8.3,4,23.3,Weekly,Canada,Remote
+698,U0698,Data Analyst,Tech,Junior,Visualization,Notion AI,37.6,5.8,3,16.2,Weekly,Australia,Hybrid
+699,U0699,Financial Analyst,Finance,Mid,Data Analysis,Notion AI,44.3,5.9,3,19.6,Weekly,USA,Hybrid
+700,U0700,Designer,Marketing,Mid,Image Generation,Notion AI,30.0,8.6,6,17.8,Weekly,USA,Remote
+701,U0701,Developer,Tech,Mid,Bug Fixing,Gemini,39.4,10.9,6,27.3,Daily,Germany,Remote
+702,U0702,Manager,Management,Mid,Strategy,Gemini,44.9,7.7,4,17.0,Occasional,India,Hybrid
+703,U0703,Manager,Management,Mid,Email Drafting,ChatGPT,40.8,8.2,4,23.9,Daily,USA,Remote
+704,U0704,Manager,Management,Junior,Email Drafting,Copilot,38.8,9.7,4,18.2,Daily,USA,Remote
+705,U0705,Developer,Tech,Senior,Code Review,Copilot,44.8,10.1,4,25.7,Daily,USA,Remote
+706,U0706,Marketing Specialist,Marketing,Senior,Email Drafting,ChatGPT,43.2,12.5,6,31.8,Daily,USA,Hybrid
+707,U0707,Developer,Tech,Senior,Code Review,Copilot,39.5,7.6,4,13.6,Daily,UK,Hybrid
+708,U0708,HR Specialist,HR,Senior,Job Description Writing,ChatGPT,44.0,8.9,5,26.0,Daily,Japan,Office
+709,U0709,HR Specialist,HR,Mid,Job Description Writing,Other,42.9,8.6,2,25.3,Daily,UK,Office
+710,U0710,HR Specialist,HR,Mid,Email Drafting,ChatGPT,41.3,6.6,3,17.5,Weekly,Australia,Hybrid
+711,U0711,HR Specialist,HR,Junior,Job Description Writing,Other,48.0,5.1,3,17.8,Daily,Japan,Hybrid
+712,U0712,Data Analyst,Tech,Mid,Report Writing,ChatGPT,41.5,9.6,5,25.5,Weekly,USA,Hybrid
+713,U0713,Developer,Tech,Mid,Documentation,ChatGPT,45.9,9.7,6,25.4,Daily,Germany,Remote
+714,U0714,HR Specialist,HR,Mid,Email Drafting,Copilot,40.4,13.1,7,32.9,Daily,USA,Office
+715,U0715,Designer,Marketing,Junior,Copywriting,Notion AI,48.0,8.8,5,23.4,Daily,USA,Remote
+716,U0716,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,46.0,11.2,5,26.9,Daily,Germany,Hybrid
+717,U0717,HR Specialist,HR,Mid,Email Drafting,Gemini,41.1,11.6,6,29.9,Daily,Germany,Hybrid
+718,U0718,Financial Analyst,Finance,Mid,Forecasting,ChatGPT,40.3,4.6,2,16.6,Occasional,Germany,Hybrid
+719,U0719,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,41.7,3.0,1,8.5,Weekly,USA,Hybrid
+720,U0720,Data Analyst,Tech,Mid,Report Writing,ChatGPT,35.9,7.8,3,22.2,Daily,UK,Office
+721,U0721,Marketing Specialist,Marketing,Mid,Email Drafting,Notion AI,42.1,9.6,5,24.5,Daily,USA,Hybrid
+722,U0722,Data Analyst,Tech,Junior,Query Generation,Gemini,35.6,6.7,4,17.1,Weekly,India,Remote
+723,U0723,Developer,Tech,Junior,Documentation,Gemini,50.3,10.7,6,30.3,Weekly,Japan,Hybrid
+724,U0724,Manager,Management,Junior,Strategy,Other,44.9,3.7,1,12.1,Occasional,USA,Remote
+725,U0725,Developer,Tech,Mid,Documentation,ChatGPT,41.3,4.7,3,17.0,Occasional,USA,Remote
+726,U0726,Financial Analyst,Finance,Junior,Forecasting,Copilot,44.7,9.8,4,23.2,Daily,USA,Office
+727,U0727,Data Analyst,Tech,Senior,Visualization,ChatGPT,45.3,12.1,6,32.5,Daily,Australia,Remote
+728,U0728,Data Analyst,Tech,Senior,Query Generation,ChatGPT,41.0,7.9,5,20.8,Daily,USA,Remote
+729,U0729,Financial Analyst,Finance,Mid,Forecasting,Gemini,44.5,9.8,4,25.2,Daily,Germany,Office
+730,U0730,Developer,Tech,Junior,Bug Fixing,Copilot,39.3,8.5,4,17.3,Weekly,USA,Hybrid
+731,U0731,Designer,Marketing,Junior,Image Generation,Gemini,45.9,9.1,6,21.6,Daily,India,Remote
+732,U0732,HR Specialist,HR,Mid,Job Description Writing,ChatGPT,42.8,6.3,4,14.0,Weekly,USA,Hybrid
+733,U0733,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,43.4,8.1,5,20.9,Daily,Germany,Hybrid
+734,U0734,Developer,Tech,Senior,Bug Fixing,Other,42.2,9.5,5,25.8,Weekly,USA,Hybrid
+735,U0735,Manager,Management,Junior,Strategy,Notion AI,41.6,6.8,2,18.6,Weekly,USA,Office
+736,U0736,Marketing Specialist,Marketing,Mid,Market Research,Gemini,31.5,7.7,6,19.4,Weekly,India,Remote
+737,U0737,Manager,Management,Mid,Report Writing,Copilot,47.3,6.4,3,19.0,Daily,USA,Remote
+738,U0738,Designer,Marketing,Mid,Copywriting,ChatGPT,30.0,13.3,6,32.8,Daily,USA,Hybrid
+739,U0739,Developer,Tech,Junior,Coding Help,Copilot,42.0,8.5,5,24.8,Weekly,USA,Hybrid
+740,U0740,Financial Analyst,Finance,Junior,Data Analysis,Other,44.2,8.5,1,22.2,Daily,USA,Office
+741,U0741,Financial Analyst,Finance,Senior,Data Analysis,Copilot,45.3,6.7,2,15.3,Weekly,Japan,Remote
+742,U0742,HR Specialist,HR,Mid,Email Drafting,Gemini,44.3,6.3,5,14.7,Daily,USA,Office
+743,U0743,Marketing Specialist,Marketing,Junior,Copywriting,ChatGPT,42.6,9.1,5,26.9,Daily,USA,Hybrid
+744,U0744,Designer,Marketing,Senior,Ideation,Gemini,38.5,11.0,5,30.0,Daily,USA,Hybrid
+745,U0745,Marketing Specialist,Marketing,Senior,Copywriting,Notion AI,39.0,8.3,5,23.5,Weekly,USA,Hybrid
+746,U0746,Financial Analyst,Finance,Junior,Report Writing,Copilot,42.3,3.9,2,10.5,Occasional,Australia,Hybrid
+747,U0747,Developer,Tech,Junior,Bug Fixing,Notion AI,32.7,2.6,2,8.0,Occasional,India,Hybrid
+748,U0748,Manager,Management,Mid,Report Writing,Gemini,46.1,9.2,4,19.8,Daily,India,Remote
+749,U0749,Manager,Management,Mid,Report Writing,Gemini,47.8,4.3,4,1.0,Occasional,Germany,Hybrid
+750,U0750,Designer,Marketing,Junior,Asset Creation,ChatGPT,49.4,12.1,6,30.9,Daily,UK,Hybrid
+751,U0751,Developer,Tech,Mid,Coding Help,Copilot,33.8,7.4,3,19.4,Daily,UK,Hybrid
+752,U0752,Data Analyst,Tech,Mid,Report Writing,Copilot,39.4,7.8,4,17.3,Daily,India,Hybrid
+753,U0753,Developer,Tech,Mid,Documentation,ChatGPT,35.3,8.6,4,24.4,Weekly,USA,Office
+754,U0754,HR Specialist,HR,Junior,Email Drafting,ChatGPT,38.3,7.1,4,21.2,Occasional,India,Hybrid
+755,U0755,Designer,Marketing,Mid,Asset Creation,ChatGPT,45.1,9.7,5,26.5,Daily,Japan,Remote
+756,U0756,Designer,Marketing,Junior,Copywriting,Gemini,41.8,5.3,5,14.5,Weekly,USA,Remote
+757,U0757,Data Analyst,Tech,Mid,Visualization,ChatGPT,39.7,3.0,1,7.1,Occasional,Germany,Remote
+758,U0758,Financial Analyst,Finance,Senior,Data Analysis,Other,42.8,3.7,1,7.2,Weekly,USA,Remote
+759,U0759,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,36.5,7.6,5,21.9,Daily,Japan,Remote
+760,U0760,HR Specialist,HR,Mid,Report Writing,ChatGPT,43.6,7.6,2,20.5,Daily,Japan,Office
+761,U0761,Marketing Specialist,Marketing,Mid,Ideation,Gemini,46.2,4.1,2,7.8,Occasional,USA,Remote
+762,U0762,Data Analyst,Tech,Mid,Query Generation,ChatGPT,32.3,7.8,4,19.8,Daily,Germany,Remote
+763,U0763,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,43.8,5.3,3,13.8,Weekly,Japan,Remote
+764,U0764,Financial Analyst,Finance,Mid,Email Drafting,Copilot,42.1,10.9,6,28.3,Daily,Germany,Office
+765,U0765,Designer,Marketing,Senior,Image Generation,Gemini,39.2,10.8,7,29.1,Daily,USA,Hybrid
+766,U0766,Marketing Specialist,Marketing,Junior,Email Drafting,Gemini,42.0,6.2,4,10.8,Occasional,India,Hybrid
+767,U0767,Manager,Management,Senior,Email Drafting,Other,40.6,11.4,6,24.6,Weekly,India,Office
+768,U0768,Manager,Management,Mid,Strategy,Copilot,48.2,9.2,4,29.0,Daily,USA,Hybrid
+769,U0769,HR Specialist,HR,Mid,Policy Q&A,Notion AI,39.6,6.9,4,20.1,Weekly,USA,Office
+770,U0770,Developer,Tech,Mid,Code Review,Copilot,46.5,9.8,5,25.8,Daily,USA,Hybrid
+771,U0771,Developer,Tech,Junior,Code Review,Copilot,31.3,7.1,4,15.3,Weekly,Germany,Hybrid
+772,U0772,Financial Analyst,Finance,Junior,Forecasting,Copilot,43.7,9.8,5,17.2,Occasional,USA,Office
+773,U0773,Developer,Tech,Junior,Coding Help,Copilot,42.9,17.3,9,43.6,Daily,India,Hybrid
+774,U0774,Data Analyst,Tech,Junior,Data Analysis,ChatGPT,32.6,9.6,6,20.2,Daily,USA,Office
+775,U0775,Financial Analyst,Finance,Senior,Data Analysis,Copilot,47.3,7.1,4,15.6,Weekly,USA,Office
+776,U0776,Financial Analyst,Finance,Mid,Data Analysis,Copilot,39.6,3.4,2,7.4,Occasional,USA,Office
+777,U0777,Financial Analyst,Finance,Junior,Forecasting,Gemini,38.7,6.4,5,17.5,Weekly,India,Remote
+778,U0778,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,41.8,8.7,5,16.9,Daily,USA,Hybrid
+779,U0779,Manager,Management,Mid,Report Writing,Notion AI,50.6,9.2,6,20.1,Daily,Japan,Hybrid
+780,U0780,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,37.9,7.5,4,16.8,Daily,Germany,Hybrid
+781,U0781,Marketing Specialist,Marketing,Junior,Market Research,ChatGPT,39.4,7.5,4,22.1,Weekly,India,Remote
+782,U0782,Developer,Tech,Senior,Coding Help,Gemini,34.7,12.8,7,27.3,Daily,UK,Remote
+783,U0783,Manager,Management,Mid,Report Writing,ChatGPT,43.8,9.4,5,23.6,Daily,USA,Hybrid
+784,U0784,HR Specialist,HR,Mid,Email Drafting,ChatGPT,42.6,4.7,3,8.2,Daily,Germany,Office
+785,U0785,Manager,Management,Mid,Strategy,ChatGPT,41.2,6.2,3,13.8,Weekly,India,Remote
+786,U0786,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,42.6,10.0,6,22.9,Daily,USA,Hybrid
+787,U0787,Developer,Tech,Junior,Documentation,ChatGPT,35.1,5.8,3,9.1,Daily,UK,Remote
+788,U0788,Marketing Specialist,Marketing,Junior,Email Drafting,Notion AI,44.4,11.3,6,28.3,Weekly,UK,Office
+789,U0789,Marketing Specialist,Marketing,Senior,Copywriting,Gemini,39.9,9.8,6,22.6,Daily,Japan,Hybrid
+790,U0790,Manager,Management,Junior,Strategy,Gemini,42.6,10.0,6,27.3,Occasional,UK,Remote
+791,U0791,Developer,Tech,Mid,Coding Help,Copilot,38.0,5.4,3,12.6,Weekly,USA,Hybrid
+792,U0792,Data Analyst,Tech,Mid,Query Generation,Gemini,38.5,8.4,5,16.0,Daily,India,Remote
+793,U0793,HR Specialist,HR,Junior,Job Description Writing,Gemini,36.0,4.8,4,10.0,Daily,USA,Hybrid
+794,U0794,Designer,Marketing,Junior,Ideation,Notion AI,31.4,9.5,6,20.7,Daily,USA,Hybrid
+795,U0795,Manager,Management,Senior,Strategy,Notion AI,47.0,5.8,4,14.2,Occasional,USA,Office
+796,U0796,Developer,Tech,Mid,Coding Help,Copilot,34.4,10.2,5,27.2,Daily,India,Hybrid
+797,U0797,Developer,Tech,Mid,Code Review,Copilot,43.4,10.5,5,23.2,Daily,Germany,Remote
+798,U0798,Designer,Marketing,Mid,Asset Creation,Gemini,46.0,11.7,6,27.8,Daily,Germany,Hybrid
+799,U0799,Financial Analyst,Finance,Junior,Data Analysis,Gemini,44.8,8.0,6,15.3,Daily,USA,Hybrid
+800,U0800,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,40.0,14.3,8,34.4,Daily,India,Remote
+801,U0801,Data Analyst,Tech,Junior,Query Generation,ChatGPT,34.5,6.2,2,16.1,Weekly,UK,Remote
+802,U0802,Developer,Tech,Mid,Code Review,ChatGPT,43.4,7.6,4,18.5,Daily,Japan,Remote
+803,U0803,Designer,Marketing,Junior,Ideation,Notion AI,46.9,8.9,4,26.9,Weekly,USA,Remote
+804,U0804,Marketing Specialist,Marketing,Junior,Copywriting,Other,39.3,7.0,3,22.1,Weekly,India,Office
+805,U0805,Designer,Marketing,Junior,Image Generation,Other,45.9,8.8,3,23.4,Daily,Australia,Remote
+806,U0806,HR Specialist,HR,Junior,Report Writing,ChatGPT,43.4,8.7,5,20.1,Daily,India,Hybrid
+807,U0807,Financial Analyst,Finance,Mid,Report Writing,ChatGPT,45.4,10.1,5,25.2,Daily,USA,Remote
+808,U0808,Manager,Management,Mid,Scheduling,Gemini,40.7,5.1,5,6.2,Weekly,Australia,Hybrid
+809,U0809,Developer,Tech,Junior,Documentation,Notion AI,47.5,5.4,3,14.5,Daily,USA,Remote
+810,U0810,Marketing Specialist,Marketing,Junior,Copywriting,Notion AI,45.4,11.2,6,29.4,Daily,Germany,Hybrid
+811,U0811,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,44.5,10.1,6,22.8,Daily,USA,Office
+812,U0812,Designer,Marketing,Mid,Ideation,ChatGPT,39.9,10.8,5,22.1,Daily,USA,Hybrid
+813,U0813,Designer,Marketing,Mid,Image Generation,Copilot,38.3,8.0,5,19.0,Daily,UK,Remote
+814,U0814,Manager,Management,Mid,Strategy,Other,40.3,9.7,4,23.2,Daily,Germany,Hybrid
+815,U0815,Data Analyst,Tech,Senior,Query Generation,ChatGPT,38.9,6.1,3,10.5,Occasional,USA,Hybrid
+816,U0816,Data Analyst,Tech,Mid,Report Writing,Gemini,48.3,6.6,4,16.5,Occasional,Germany,Remote
+817,U0817,Developer,Tech,Mid,Documentation,ChatGPT,47.7,9.3,5,20.3,Daily,Japan,Hybrid
+818,U0818,Data Analyst,Tech,Mid,Report Writing,Notion AI,47.4,10.6,7,22.7,Daily,India,Remote
+819,U0819,Developer,Tech,Mid,Code Review,ChatGPT,44.2,9.2,5,20.4,Weekly,UK,Office
+820,U0820,Marketing Specialist,Marketing,Senior,Ideation,Gemini,36.8,10.8,7,26.1,Daily,USA,Office
+821,U0821,Developer,Tech,Junior,Bug Fixing,Copilot,30.9,9.6,4,25.3,Daily,USA,Remote
+822,U0822,Data Analyst,Tech,Mid,Report Writing,Gemini,45.2,7.7,6,15.5,Daily,UK,Remote
+823,U0823,Data Analyst,Tech,Mid,Query Generation,Gemini,37.8,9.5,5,25.5,Daily,India,Hybrid
+824,U0824,Manager,Management,Senior,Email Drafting,ChatGPT,45.9,9.5,4,24.9,Daily,Australia,Hybrid
+825,U0825,Financial Analyst,Finance,Mid,Report Writing,Notion AI,39.4,10.7,5,22.3,Daily,USA,Office
+826,U0826,Marketing Specialist,Marketing,Mid,Copywriting,Gemini,43.4,11.2,7,29.0,Daily,Germany,Hybrid
+827,U0827,Financial Analyst,Finance,Mid,Report Writing,Other,40.6,3.9,1,7.6,Weekly,USA,Office
+828,U0828,Financial Analyst,Finance,Senior,Email Drafting,ChatGPT,40.1,7.1,3,15.2,Weekly,India,Hybrid
+829,U0829,Financial Analyst,Finance,Senior,Report Writing,Copilot,40.1,13.8,8,37.1,Daily,India,Office
+830,U0830,Financial Analyst,Finance,Senior,Report Writing,ChatGPT,42.2,13.1,7,30.0,Daily,Australia,Office
+831,U0831,Financial Analyst,Finance,Junior,Email Drafting,Gemini,40.1,7.0,5,18.4,Daily,USA,Hybrid
+832,U0832,Data Analyst,Tech,Mid,Visualization,ChatGPT,33.9,9.3,5,25.1,Daily,India,Hybrid
+833,U0833,Financial Analyst,Finance,Junior,Email Drafting,ChatGPT,42.2,5.0,3,12.4,Daily,Japan,Office
+834,U0834,HR Specialist,HR,Mid,Report Writing,Notion AI,42.3,6.9,4,17.3,Daily,USA,Office
+835,U0835,Marketing Specialist,Marketing,Senior,Market Research,Gemini,40.9,12.5,8,32.6,Daily,USA,Remote
+836,U0836,Developer,Tech,Senior,Code Review,ChatGPT,37.7,12.4,7,31.3,Daily,UK,Hybrid
+837,U0837,Manager,Management,Junior,Scheduling,Copilot,44.1,8.8,5,27.5,Daily,USA,Office
+838,U0838,Designer,Marketing,Mid,Ideation,Gemini,36.3,9.5,5,26.2,Daily,USA,Hybrid
+839,U0839,Marketing Specialist,Marketing,Mid,Market Research,Notion AI,47.9,4.7,3,9.5,Occasional,USA,Hybrid
+840,U0840,Data Analyst,Tech,Mid,Visualization,Gemini,38.6,5.8,4,13.1,Occasional,India,Hybrid
+841,U0841,Manager,Management,Junior,Strategy,Gemini,39.4,3.9,4,5.7,Occasional,Canada,Remote
+842,U0842,Marketing Specialist,Marketing,Senior,Ideation,Notion AI,38.9,3.2,3,7.1,Weekly,USA,Remote
+843,U0843,HR Specialist,HR,Senior,Report Writing,ChatGPT,43.4,11.0,6,23.9,Weekly,Japan,Hybrid
+844,U0844,Developer,Tech,Junior,Code Review,Gemini,50.0,11.2,7,24.3,Daily,Japan,Remote
+845,U0845,Data Analyst,Tech,Mid,Visualization,Gemini,40.8,11.1,6,23.6,Daily,Japan,Hybrid
+846,U0846,HR Specialist,HR,Mid,Email Drafting,ChatGPT,39.0,9.3,5,21.0,Daily,USA,Office
+847,U0847,Developer,Tech,Mid,Bug Fixing,Gemini,39.3,10.1,5,22.0,Weekly,Australia,Hybrid
+848,U0848,HR Specialist,HR,Senior,Email Drafting,Other,46.3,10.5,5,29.1,Daily,Japan,Office
+849,U0849,Marketing Specialist,Marketing,Senior,Market Research,Notion AI,39.8,8.4,5,17.2,Occasional,USA,Hybrid
+850,U0850,Developer,Tech,Senior,Code Review,ChatGPT,41.3,6.1,4,19.0,Daily,USA,Remote
+851,U0851,HR Specialist,HR,Mid,Policy Q&A,Gemini,37.2,5.2,5,11.6,Occasional,India,Hybrid
+852,U0852,Developer,Tech,Mid,Coding Help,Copilot,43.2,12.8,6,30.1,Daily,Japan,Remote
+853,U0853,Marketing Specialist,Marketing,Mid,Market Research,Gemini,36.4,8.7,6,15.1,Weekly,USA,Hybrid
+854,U0854,Manager,Management,Junior,Email Drafting,Gemini,40.1,8.7,5,27.2,Daily,USA,Hybrid
+855,U0855,Developer,Tech,Mid,Bug Fixing,ChatGPT,39.0,5.9,2,12.1,Weekly,Canada,Remote
+856,U0856,HR Specialist,HR,Senior,Report Writing,Gemini,48.5,8.1,5,21.7,Daily,India,Office
+857,U0857,Financial Analyst,Finance,Junior,Email Drafting,ChatGPT,47.6,7.0,3,20.1,Daily,USA,Office
+858,U0858,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,46.7,7.0,4,16.4,Daily,India,Office
+859,U0859,Marketing Specialist,Marketing,Junior,Ideation,Gemini,39.6,6.7,5,17.0,Weekly,USA,Remote
+860,U0860,Developer,Tech,Mid,Bug Fixing,ChatGPT,40.7,8.6,5,26.1,Weekly,USA,Remote
+861,U0861,Developer,Tech,Senior,Code Review,Copilot,49.8,10.5,5,26.7,Daily,Japan,Hybrid
+862,U0862,Marketing Specialist,Marketing,Mid,Email Drafting,ChatGPT,44.0,8.2,4,15.9,Daily,India,Office
+863,U0863,Designer,Marketing,Senior,Asset Creation,ChatGPT,37.0,4.5,2,11.2,Daily,USA,Remote
+864,U0864,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,42.2,10.5,5,29.7,Daily,UK,Hybrid
+865,U0865,Developer,Tech,Mid,Documentation,Notion AI,40.1,7.1,4,17.5,Daily,Germany,Remote
+866,U0866,Financial Analyst,Finance,Junior,Email Drafting,Gemini,43.9,8.4,4,22.1,Weekly,India,Office
+867,U0867,Financial Analyst,Finance,Senior,Report Writing,Gemini,47.7,14.3,10,32.2,Daily,Germany,Office
+868,U0868,Data Analyst,Tech,Mid,Report Writing,Copilot,40.1,5.6,3,14.7,Weekly,Germany,Hybrid
+869,U0869,Designer,Marketing,Junior,Ideation,ChatGPT,38.9,8.9,4,19.4,Daily,India,Remote
+870,U0870,Marketing Specialist,Marketing,Junior,Copywriting,Notion AI,43.5,7.7,4,12.9,Daily,India,Hybrid
+871,U0871,Designer,Marketing,Mid,Ideation,Gemini,42.7,6.2,3,15.1,Occasional,Germany,Hybrid
+872,U0872,Developer,Tech,Mid,Code Review,Copilot,42.0,6.6,3,15.4,Occasional,USA,Office
+873,U0873,Data Analyst,Tech,Junior,Query Generation,ChatGPT,43.1,10.9,6,34.5,Daily,USA,Office
+874,U0874,Developer,Tech,Mid,Coding Help,Copilot,35.4,11.8,5,26.7,Daily,USA,Office
+875,U0875,HR Specialist,HR,Mid,Policy Q&A,Gemini,43.0,9.1,6,23.4,Daily,India,Remote
+876,U0876,Data Analyst,Tech,Junior,Query Generation,Gemini,43.4,4.1,3,9.7,Weekly,Germany,Remote
+877,U0877,Designer,Marketing,Junior,Image Generation,Other,45.9,2.5,1,4.8,Weekly,Canada,Hybrid
+878,U0878,Designer,Marketing,Senior,Asset Creation,Gemini,37.2,12.1,6,28.0,Daily,USA,Hybrid
+879,U0879,Data Analyst,Tech,Mid,Visualization,Other,50.1,7.0,3,18.3,Daily,UK,Remote
+880,U0880,Marketing Specialist,Marketing,Senior,Email Drafting,ChatGPT,39.1,5.3,3,14.6,Weekly,Germany,Hybrid
+881,U0881,Developer,Tech,Senior,Code Review,Copilot,46.9,9.8,5,25.4,Daily,USA,Hybrid
+882,U0882,Financial Analyst,Finance,Junior,Email Drafting,Gemini,38.4,9.2,5,24.1,Daily,UK,Office
+883,U0883,Marketing Specialist,Marketing,Junior,Market Research,ChatGPT,42.2,6.7,4,17.3,Daily,USA,Hybrid
+884,U0884,Developer,Tech,Junior,Coding Help,Copilot,34.6,6.8,4,16.7,Occasional,Japan,Office
+885,U0885,Designer,Marketing,Mid,Ideation,Gemini,41.0,3.9,1,9.4,Weekly,USA,Remote
+886,U0886,Designer,Marketing,Senior,Asset Creation,Copilot,43.4,6.9,4,17.0,Occasional,India,Hybrid
+887,U0887,Financial Analyst,Finance,Mid,Report Writing,Copilot,42.8,7.2,3,16.3,Weekly,USA,Office
+888,U0888,Developer,Tech,Mid,Bug Fixing,Copilot,43.5,12.8,6,29.2,Daily,Japan,Hybrid
+889,U0889,HR Specialist,HR,Mid,Email Drafting,ChatGPT,46.2,6.3,4,14.1,Weekly,Japan,Hybrid
+890,U0890,Data Analyst,Tech,Senior,Visualization,Gemini,36.6,12.9,7,29.8,Daily,Japan,Office
+891,U0891,Financial Analyst,Finance,Mid,Report Writing,Gemini,46.5,7.5,4,18.0,Occasional,USA,Hybrid
+892,U0892,Data Analyst,Tech,Mid,Visualization,Notion AI,40.8,6.4,4,17.0,Occasional,Japan,Office
+893,U0893,Financial Analyst,Finance,Mid,Email Drafting,ChatGPT,43.3,8.5,4,20.9,Daily,USA,Hybrid
+894,U0894,Data Analyst,Tech,Mid,Query Generation,Copilot,43.2,7.4,3,22.9,Weekly,India,Remote
+895,U0895,HR Specialist,HR,Senior,Policy Q&A,ChatGPT,43.3,11.0,6,30.4,Daily,UK,Office
+896,U0896,Financial Analyst,Finance,Mid,Data Analysis,ChatGPT,49.9,10.8,5,26.4,Weekly,Germany,Office
+897,U0897,Developer,Tech,Mid,Code Review,ChatGPT,45.7,8.1,5,19.5,Weekly,Japan,Hybrid
+898,U0898,Designer,Marketing,Senior,Asset Creation,Notion AI,30.0,7.3,4,20.5,Occasional,USA,Remote
+899,U0899,Developer,Tech,Junior,Coding Help,ChatGPT,42.9,10.4,4,24.8,Daily,Canada,Hybrid
+900,U0900,HR Specialist,HR,Junior,Job Description Writing,ChatGPT,39.3,5.5,2,13.1,Occasional,USA,Hybrid
+901,U0901,Financial Analyst,Finance,Senior,Report Writing,Notion AI,39.0,12.1,6,32.7,Daily,India,Office
+902,U0902,Marketing Specialist,Marketing,Junior,Email Drafting,ChatGPT,35.8,9.2,5,21.8,Daily,India,Hybrid
+903,U0903,Data Analyst,Tech,Mid,Query Generation,Gemini,44.4,7.1,5,20.1,Weekly,USA,Hybrid
+904,U0904,Manager,Management,Senior,Report Writing,Copilot,41.2,7.9,4,20.1,Daily,USA,Remote
+905,U0905,Developer,Tech,Senior,Coding Help,ChatGPT,35.1,3.7,2,9.4,Weekly,India,Office
+906,U0906,Designer,Marketing,Mid,Image Generation,Notion AI,41.2,5.9,4,13.4,Daily,USA,Hybrid
+907,U0907,Developer,Tech,Junior,Documentation,ChatGPT,43.7,9.4,5,24.3,Daily,Germany,Office
+908,U0908,Developer,Tech,Junior,Bug Fixing,Copilot,46.5,13.0,7,30.1,Daily,USA,Remote
+909,U0909,HR Specialist,HR,Junior,Email Drafting,Gemini,45.6,13.2,7,33.7,Daily,Japan,Hybrid
+910,U0910,Financial Analyst,Finance,Senior,Email Drafting,Gemini,40.4,9.2,5,24.1,Daily,Germany,Remote
+911,U0911,Manager,Management,Mid,Email Drafting,Notion AI,41.5,8.3,5,18.2,Daily,India,Remote
+912,U0912,Marketing Specialist,Marketing,Mid,Email Drafting,Gemini,40.1,3.0,2,6.4,Weekly,India,Remote
+913,U0913,Developer,Tech,Senior,Bug Fixing,Copilot,44.8,12.1,5,33.9,Daily,India,Hybrid
+914,U0914,Developer,Tech,Mid,Bug Fixing,ChatGPT,47.0,8.7,4,19.2,Daily,India,Remote
+915,U0915,HR Specialist,HR,Mid,Policy Q&A,ChatGPT,35.4,7.9,4,16.1,Daily,UK,Office
+916,U0916,Developer,Tech,Junior,Coding Help,Gemini,50.4,10.4,6,22.9,Daily,USA,Remote
+917,U0917,Manager,Management,Mid,Strategy,Notion AI,44.5,5.4,3,15.1,Daily,India,Office
+918,U0918,Manager,Management,Junior,Scheduling,Notion AI,40.1,6.0,3,18.0,Occasional,India,Hybrid
+919,U0919,Developer,Tech,Junior,Bug Fixing,ChatGPT,30.0,7.1,4,15.3,Daily,USA,Hybrid
+920,U0920,Data Analyst,Tech,Senior,Data Analysis,Copilot,47.7,6.3,4,16.0,Daily,Japan,Hybrid
+921,U0921,Developer,Tech,Senior,Code Review,Gemini,32.5,9.5,5,24.3,Daily,USA,Hybrid
+922,U0922,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,33.8,8.1,3,23.9,Weekly,UK,Hybrid
+923,U0923,Financial Analyst,Finance,Senior,Data Analysis,Gemini,46.9,10.4,6,25.4,Daily,UK,Hybrid
+924,U0924,Manager,Management,Mid,Email Drafting,Notion AI,42.3,7.7,4,25.7,Daily,UK,Hybrid
+925,U0925,Data Analyst,Tech,Senior,Query Generation,Notion AI,41.3,9.0,5,22.6,Daily,USA,Hybrid
+926,U0926,Marketing Specialist,Marketing,Junior,Copywriting,Gemini,36.6,8.8,6,21.4,Occasional,Japan,Remote
+927,U0927,Designer,Marketing,Mid,Ideation,Gemini,36.0,6.9,5,17.7,Weekly,USA,Hybrid
+928,U0928,Data Analyst,Tech,Mid,Visualization,Other,47.3,7.3,2,16.6,Daily,UK,Hybrid
+929,U0929,Developer,Tech,Mid,Code Review,Copilot,35.1,8.6,4,19.6,Daily,India,Hybrid
+930,U0930,Financial Analyst,Finance,Mid,Report Writing,Gemini,42.1,11.3,6,27.0,Daily,UK,Office
+931,U0931,Developer,Tech,Senior,Coding Help,Copilot,33.8,11.4,6,25.4,Daily,USA,Office
+932,U0932,Manager,Management,Junior,Strategy,ChatGPT,43.3,4.9,3,10.4,Occasional,USA,Office
+933,U0933,Data Analyst,Tech,Senior,Report Writing,ChatGPT,43.1,7.2,4,17.6,Weekly,Japan,Hybrid
+934,U0934,HR Specialist,HR,Senior,Report Writing,Gemini,44.1,9.0,6,21.3,Daily,Japan,Hybrid
+935,U0935,Developer,Tech,Junior,Documentation,Gemini,43.2,8.1,5,19.2,Daily,Germany,Hybrid
+936,U0936,Data Analyst,Tech,Junior,Report Writing,Gemini,44.5,8.7,4,24.9,Daily,Germany,Office
+937,U0937,Financial Analyst,Finance,Junior,Report Writing,Copilot,47.9,5.8,3,15.4,Weekly,UK,Office
+938,U0938,HR Specialist,HR,Junior,Policy Q&A,Gemini,46.6,7.0,3,19.0,Weekly,USA,Hybrid
+939,U0939,Data Analyst,Tech,Senior,Visualization,Notion AI,45.9,11.2,6,27.2,Weekly,Canada,Hybrid
+940,U0940,Marketing Specialist,Marketing,Mid,Copywriting,ChatGPT,38.5,7.1,4,21.2,Daily,USA,Remote
+941,U0941,Developer,Tech,Mid,Bug Fixing,Gemini,34.6,10.7,6,29.8,Daily,Japan,Hybrid
+942,U0942,Developer,Tech,Mid,Coding Help,Copilot,40.9,12.4,7,28.6,Daily,UK,Remote
+943,U0943,Marketing Specialist,Marketing,Mid,Copywriting,Notion AI,45.4,8.3,5,15.8,Daily,USA,Hybrid
+944,U0944,Data Analyst,Tech,Mid,Visualization,Gemini,43.1,13.5,7,33.4,Daily,Japan,Hybrid
+945,U0945,Designer,Marketing,Junior,Ideation,ChatGPT,39.1,7.6,4,23.4,Weekly,USA,Remote
+946,U0946,Developer,Tech,Junior,Coding Help,ChatGPT,48.2,6.5,4,15.5,Daily,USA,Hybrid
+947,U0947,Manager,Management,Mid,Email Drafting,Copilot,40.9,10.7,6,24.0,Daily,USA,Hybrid
+948,U0948,Developer,Tech,Mid,Bug Fixing,Copilot,45.7,9.0,5,21.4,Weekly,Japan,Hybrid
+949,U0949,Designer,Marketing,Mid,Image Generation,Gemini,45.4,8.3,5,22.5,Weekly,USA,Remote
+950,U0950,Designer,Marketing,Junior,Ideation,Gemini,41.7,8.1,4,19.0,Weekly,USA,Remote
+951,U0951,Developer,Tech,Senior,Bug Fixing,ChatGPT,37.4,10.0,6,23.3,Daily,Japan,Hybrid
+952,U0952,Marketing Specialist,Marketing,Junior,Copywriting,ChatGPT,49.9,3.7,2,7.7,Occasional,USA,Remote
+953,U0953,Marketing Specialist,Marketing,Junior,Email Drafting,ChatGPT,46.4,5.9,3,17.8,Weekly,India,Remote
+954,U0954,Developer,Tech,Junior,Coding Help,Notion AI,38.8,10.5,6,26.3,Daily,India,Remote
+955,U0955,Developer,Tech,Junior,Bug Fixing,Gemini,39.7,7.2,4,16.5,Daily,Canada,Remote
+956,U0956,Marketing Specialist,Marketing,Mid,Ideation,ChatGPT,33.1,6.2,3,13.3,Weekly,India,Remote
+957,U0957,Developer,Tech,Junior,Code Review,ChatGPT,40.3,4.2,3,11.9,Weekly,Japan,Hybrid
+958,U0958,Financial Analyst,Finance,Junior,Forecasting,ChatGPT,39.6,2.7,2,10.9,Weekly,USA,Remote
+959,U0959,Developer,Tech,Senior,Code Review,Notion AI,41.7,8.0,5,13.4,Daily,India,Hybrid
+960,U0960,Manager,Management,Mid,Report Writing,ChatGPT,41.1,9.2,4,17.7,Occasional,USA,Office
+961,U0961,Financial Analyst,Finance,Mid,Forecasting,Copilot,42.8,6.9,3,19.4,Daily,USA,Hybrid
+962,U0962,Developer,Tech,Junior,Coding Help,Copilot,30.0,5.4,2,17.1,Occasional,Japan,Remote
+963,U0963,Developer,Tech,Mid,Coding Help,Notion AI,39.2,9.9,6,24.7,Daily,USA,Remote
+964,U0964,Marketing Specialist,Marketing,Mid,Market Research,ChatGPT,47.1,7.5,4,20.1,Occasional,USA,Hybrid
+965,U0965,Developer,Tech,Junior,Bug Fixing,Copilot,35.0,10.8,6,30.4,Occasional,India,Hybrid
+966,U0966,Designer,Marketing,Junior,Image Generation,Gemini,48.5,4.7,4,8.5,Daily,USA,Remote
+967,U0967,Developer,Tech,Senior,Documentation,ChatGPT,42.7,10.1,5,24.1,Daily,Japan,Remote
+968,U0968,Data Analyst,Tech,Junior,Data Analysis,Gemini,39.9,9.3,7,27.8,Daily,India,Hybrid
+969,U0969,Designer,Marketing,Mid,Ideation,Notion AI,42.5,9.2,4,23.6,Daily,Australia,Hybrid
+970,U0970,Financial Analyst,Finance,Mid,Forecasting,ChatGPT,43.6,5.4,2,13.7,Weekly,USA,Hybrid
+971,U0971,HR Specialist,HR,Mid,Email Drafting,ChatGPT,40.6,7.2,3,13.9,Daily,Germany,Hybrid
+972,U0972,Developer,Tech,Senior,Code Review,Notion AI,46.0,14.3,8,36.1,Daily,USA,Hybrid
+973,U0973,Data Analyst,Tech,Mid,Data Analysis,Gemini,41.3,7.4,5,16.8,Daily,Japan,Remote
+974,U0974,Data Analyst,Tech,Mid,Report Writing,Gemini,44.2,10.8,7,30.3,Occasional,India,Office
+975,U0975,Developer,Tech,Mid,Bug Fixing,ChatGPT,45.7,7.3,3,20.0,Daily,USA,Remote
+976,U0976,Manager,Management,Junior,Scheduling,Gemini,41.3,7.5,6,15.7,Daily,USA,Hybrid
+977,U0977,Manager,Management,Mid,Strategy,Notion AI,48.8,7.1,4,18.2,Daily,USA,Remote
+978,U0978,HR Specialist,HR,Junior,Policy Q&A,Notion AI,43.6,4.7,3,11.5,Weekly,UK,Hybrid
+979,U0979,Developer,Tech,Mid,Bug Fixing,Copilot,34.8,7.7,5,20.4,Weekly,India,Remote
+980,U0980,Manager,Management,Junior,Strategy,Copilot,46.7,8.8,4,24.7,Weekly,USA,Remote
+981,U0981,Data Analyst,Tech,Senior,Visualization,Notion AI,39.0,8.7,5,19.7,Daily,Germany,Remote
+982,U0982,Developer,Tech,Senior,Code Review,Copilot,50.6,15.3,8,36.7,Daily,USA,Hybrid
+983,U0983,Developer,Tech,Senior,Coding Help,Other,34.8,8.7,4,20.2,Daily,USA,Hybrid
+984,U0984,Designer,Marketing,Mid,Copywriting,Notion AI,44.8,7.7,4,19.4,Daily,India,Hybrid
+985,U0985,Data Analyst,Tech,Junior,Query Generation,Other,39.9,11.3,6,27.3,Weekly,USA,Hybrid
+986,U0986,Designer,Marketing,Junior,Image Generation,ChatGPT,41.2,8.7,5,19.5,Daily,USA,Remote
+987,U0987,Marketing Specialist,Marketing,Junior,Ideation,Gemini,48.9,8.1,6,21.3,Daily,USA,Hybrid
+988,U0988,Financial Analyst,Finance,Mid,Report Writing,Gemini,39.9,13.1,8,36.0,Daily,India,Hybrid
+989,U0989,Designer,Marketing,Junior,Copywriting,Gemini,45.7,5.8,4,13.5,Daily,India,Office
+990,U0990,Manager,Management,Junior,Scheduling,ChatGPT,48.0,6.6,4,17.7,Daily,India,Remote
+991,U0991,Financial Analyst,Finance,Mid,Email Drafting,Gemini,41.1,9.7,5,25.6,Weekly,Japan,Office
+992,U0992,Designer,Marketing,Junior,Image Generation,Notion AI,37.1,9.5,5,19.3,Weekly,USA,Office
+993,U0993,Financial Analyst,Finance,Senior,Data Analysis,Gemini,48.5,5.2,4,15.6,Occasional,USA,Remote
+994,U0994,Developer,Tech,Mid,Documentation,Notion AI,44.8,3.9,3,10.4,Weekly,India,Remote
+995,U0995,Marketing Specialist,Marketing,Junior,Market Research,Notion AI,48.3,5.4,3,12.9,Occasional,USA,Hybrid
+996,U0996,HR Specialist,HR,Junior,Job Description Writing,ChatGPT,38.4,7.1,4,17.7,Daily,USA,Office
+997,U0997,Manager,Management,Senior,Email Drafting,Notion AI,42.1,8.6,6,18.4,Weekly,Canada,Hybrid
+998,U0998,Developer,Tech,Mid,Bug Fixing,Copilot,46.0,14.0,8,30.2,Occasional,USA,Remote
+999,U0999,Developer,Tech,Junior,Documentation,Gemini,38.8,6.0,4,16.6,Weekly,USA,Hybrid
+1000,U1000,Data Analyst,Tech,Senior,Report Writing,Copilot,41.0,11.7,6,30.2,Daily,USA,Remote
